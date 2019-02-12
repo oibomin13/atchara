@@ -1,0 +1,106 @@
+.app-sidebar__user {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	padding: 10px;
+	margin-bottom: 20px;
+	color: #fff;
+}
+
+.app-sidebar__user-avatar {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    margin-right: 15px;
+}
+
+.sidebar__user-avatar {
+	border-radius: 50% !important;
+	width: 50px;
+}
+
+.app-sidebar__user-name, .app-sidebar__user-designation {
+    white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    margin-bottom: 0;
+}
+
+.app-sidebar__user-name {
+    font-size: 17px;
+    line-height: 1.3;
+}
+
+/* fixed style datatables */
+#tablelist{
+    width: 100%!important;
+}
+
+/* scroll modal body */
+/* .modal-body {
+	max-height: calc(100vh - 210px);
+	overflow-y: auto;
+} */
+
+/* style error validate */
+.error-block{
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #FF0000;
+	font-size: 12px;
+}
+.has-error .select2-selection {
+	border: 1px solid #a94442;
+	/*border-radius: 4px;*/
+}
+.form-group.has-error .form-control, .form-group.has-error .input-group-addon {
+    border-color: #dd4b39;
+    box-shadow: none;
+}
+
+/* fixed style vue-select */
+.v-select .dropdown-toggle{
+	background-color: #fff!important;
+}
+
+/* load on top */
+.pace {
+	pointer-events: none;
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+		-ms-user-select: none;
+			user-select: none;
+  }
+  
+  .pace .pace-progress {
+	background: #96000e;
+	position: fixed;
+	z-index: 2000;
+	top: 0;
+	right: 100%;
+	width: 100%;
+	height: 2px;
+  }
+  
+  .pace .pace-progress-inner {
+	display: block;
+	position: absolute;
+	right: 0;
+	width: 100px;
+	height: 100%;
+	-webkit-box-shadow: 0 0 10px #96000e, 0 0 5px #96000e;
+			box-shadow: 0 0 10px #96000e, 0 0 5px #96000e;
+	opacity: 1;
+	-webkit-transform: rotate(3deg) translate(0px, -4px);
+		-ms-transform: rotate(3deg) translate(0px, -4px);
+			transform: rotate(3deg) translate(0px, -4px);
+  }
+  
+  .pace-inactive {
+	display: none;
+  }
