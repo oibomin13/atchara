@@ -62,6 +62,7 @@ $(document).ready(function() {
           
           var btnEdit = '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' +row["id"] +'" data-name="edit" role="button" class="btn btn-outline-primary btn-sm btn-edit" data-toggle="modal" data-target="#ajaxLargeModal"><i class="fa fa-edit"></i> ' + gEdit + '</a> ';
           var btnApprove = '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' +row["id"] +'" data-name="approve"  role="button" class="btn btn-outline-success btn-sm btn-approve" data-toggle="modal" data-target="#ajaxLargeModal"><i class="fa fa-check-square"></i> ' + gApprove + '</a> ';
+          var btnReturn = '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' +row["id"] +'" data-name="return"  role="button" class="btn btn-outline-success btn-sm btn-approve" data-toggle="modal" data-target="#ajaxLargeModal"><i class="fa fa-check-square"></i> ' + gReturn + '</a> ';
           var btnDelete =
             '<a href="#" data-href="' +
             gUrl +
@@ -72,19 +73,30 @@ $(document).ready(function() {
             '" role="button" class="btn btn-outline-danger btn-sm btn-delete"><i class="fa fa-trash"></i> ' +
             gDelete +
             "</a>";
+          var current_id = document.getElementsByName("current_id");
+          var btn;
           if (return_status == 0){
             var utype = document.getElementsByName("utype");
-            console.log(utype[0].value);
-            if (utype[0].value=="ADMIN") {
-              return btnEdit + btnApprove;
-            }else{
-              return btnEdit;
-            }            
+            if (current_id[0].value==row['member_id'] && utype[0].value=="ADMIN") {
+              return btnEdit + btnApprove + btnDelete;
+            } else if (current_id[0].value!=row['member_id'] && utype[0].value=="ADMIN") {
+              return btnApprove 
+            } else if (current_id[0].value==row['member_id'] && utype[0].value!="ADMIN") {
+              return btnEdit + btnDelete;
+            } else {
+              return "";
+            }
+            // if (utype[0].value=="ADMIN") {
+            //   btn += btnApprove;
+            // }else{
+            //   return btnEdit;
+            // }
           }else if(return_status== 1) {
-            return "";
+            return btnReturn;
           }else{
-            return btnDelete;
+            return "";
           }
+
 
           
         },
@@ -94,9 +106,17 @@ $(document).ready(function() {
   });
 
   $("#ajaxLargeModal").on("shown.bs.modal", function(e) {
+    app.item.onbtn=e.relatedTarget.getAttribute('data-name');
+    $('input[name=schedule_date]').daterangepicker(datepickerOption, 
+    function(start, end, label) {
+      var dt = moment(start).format('DD/MM/YYYY');
+      app.item.schedule_date = dt;
+      app.changeHide();
+    });
     console.log(e.relatedTarget.getAttribute('data-name'));
     $("#modalForm").validate({
       submitHandler: function(form) {
+        app.item.onbtn=e.relatedTarget.getAttribute('data-name');
         if (!app.item.member) {
           showBox("กรุณาเลือกสมาชิก", "warning");
           return false;
@@ -105,7 +125,8 @@ $(document).ready(function() {
           showBox("กรุณาเลือกรายการสินค้า", "warning");
           return false;
         }
-console.log(app.item);
+        console.log(app.item);
+        //return false;
         axios
           .post(gUrl + "api/borrows", app.item, {
             headers: { "api-key": gApiKey }

@@ -19,9 +19,9 @@
 						<span class="text-secondary"><?php line('mem_name'); ?>*</span>
 						</label>
 						<!-- <?php print_r($user); ?> -->
-						<v-select :options="users" v-model="item.user" placeholder="เลือกรายการ"></v-select>
+						<!-- <v-select :options="users" v-model="item.user" placeholder="เลือกรายการ"></v-select> -->
 						<!-- <v-select :options="membertype" v-model="item.membertype" placeholder="เลือกรายการ"></v-select>	 -->
-						<!-- <?php echo form_input(array('name' => 'name', 'v-model' => 'item.name', 'class' => 'form-control', 'autocomplete' => 'off')); ?> -->
+						<?php echo form_input(array('name' => 'fullname', 'v-model' => 'item.fullname', 'class' => 'form-control', 'autocomplete' => 'off')); ?>
 					</div>
 					<div class="form-group col-sm-6">
 						<label for="code">
@@ -33,10 +33,40 @@
 				
 				<div class="form-row">
 					<div class="form-group col-sm-6">
-						<label for="idcard">เลขบัตรประจำตัวประชาชน
-							<?php line('mem_idcard'); ?>
+						<label for="username">
+						<span class="text-secondary"><?php line('usr_username'); ?>*</span>
+						</label>
+						<?php echo form_input(array('name' => 'username', 'v-model'=>'item.username', 'class' => 'form-control', 'autocomplete' => 'off')); ?>
+					</div>
+					<div class="form-group col-sm-6">
+						<label for="password">
+						<span class="text-secondary" v-if="item.id == 0"><?php line('usr_password'); ?>*</span>
+						<span v-else><?php line('usr_password'); ?></span>
+					</label>
+					<?php echo form_password(array('name' => 'password', 'id'=>'password', 'v-model'=>'item.password', 'class' => 'form-control', 'autocomplete' => 'off')); ?>
+					</div>
+				</div>
+				<div class="form-row">
+					<div class="form-group col-sm-6">
+						<label for="confpassword">
+							<span class="text-secondary" v-if="item.id == 0"><?php line('usr_conf_password'); ?>*</span>
+							<span v-else><?php line('usr_conf_password'); ?></span>
+						</label>
+						<?php echo form_password(array('name' => 'confpassword', 'class' => 'form-control', 'autocomplete' => 'off')); ?>
+					</div>
+					<div class="form-group col-sm-6">
+						<label for="idcard">
+							<span class="text-secondary"><?php line('mem_idcard'); ?>*</span>							
 						</label>
 						<?php echo form_input(array('name' => 'idcard', 'v-model' => 'item.idcard', 'class' => 'form-control', 'autocomplete' => 'off')); ?>
+					</div>
+				</div>
+				<div class="form-row">
+					<div class="form-group col-sm-6">
+						<label for="idcard">
+							<?php line('mem_email'); ?>
+						</label>
+						<?php echo form_input(array('name' => 'email', 'v-model' => 'item.email', 'class' => 'form-control', 'autocomplete' => 'off')); ?>
 					</div>
 					<div class="form-group col-sm-6">
 						<label for="tel">
@@ -48,10 +78,10 @@
 
 				<div class="form-row">
 					<div class="form-group col-sm-6">
-						<label for="idcard">
-							<?php line('mem_email'); ?>
-						</label>
-						<?php echo form_input(array('name' => 'email', 'v-model' => 'item.email', 'class' => 'form-control', 'autocomplete' => 'off')); ?>
+						<label for="membertype">
+							<span class="text-secondary"><?php line('menu_membertype'); ?>*</span>
+						</label>						
+						<v-select :options="membertypes" v-model="item.membertype" placeholder="เลือกรายการ"></v-select>					
 					</div>
 					<div class="form-group col-sm-6">
 						<label for="department">
@@ -61,14 +91,14 @@
 					</div>
 				</div>
 
-				<div class="form-row">
+				<!-- <div class="form-row">
 					<div class="form-group col-sm-6">
 						<label for="membertype">
 							<span class="text-secondary"><?php line('menu_membertype'); ?>*</span>
 						</label>						
 						<v-select :options="membertypes" v-model="item.membertype" placeholder="เลือกรายการ"></v-select>					
 					</div>
-				</div>
+				</div> -->
 
 				<div class="form-row">
 					<div class="form-group col-sm-12">
@@ -107,7 +137,7 @@ var app = new Vue({
 		item: { id: $('input[name=id]').val() },
 		departments: [],
 		membertypes: [],
-		users: [],
+		// users: [],
 	},
 	methods: {
 		submitData: function(){			
@@ -167,25 +197,25 @@ var app = new Vue({
 				}
 		);
 
-		/* user data */
-		axios.get(gUrl + 'api/users/', {
-			headers: {'api-key': gApiKey}
-		}).then(
-				response => {
-					if (response.status === 200) {
-						if(response.data.length > 0){							
-								var reUser = response.data.map(obj => {
-								var rObj = {};							
-								rObj = {value: obj.id, label: obj.fullname}
-								console.log(rObj);
-								return rObj;
-							});
+		// /* user data */
+		// axios.get(gUrl + 'api/users/', {
+		// 	headers: {'api-key': gApiKey}
+		// }).then(
+		// 		response => {
+		// 			if (response.status === 200) {
+		// 				if(response.data.length > 0){							
+		// 						var reUser = response.data.map(obj => {
+		// 						var rObj = {};							
+		// 						rObj = {value: obj.id, label: obj.fullname}
+		// 						console.log(rObj);
+		// 						return rObj;
+		// 					});
 
-							this.users = reUser;
-						}
-					}
-				}
-		);
+		// 					this.users = reUser;
+		// 				}
+		// 			}
+		// 		}
+		// );
 	},
 	mounted: function () {
 		/* init iCheck */

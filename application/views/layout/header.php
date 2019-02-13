@@ -49,8 +49,10 @@
 		var gClass = '<?php echo $this->router->fetch_class(); ?>';
 		var gEdit = '<?php line('edit'); ?>';
 		var gApprove = '<?php line('approve'); ?>';
+		var gReturn = '<?php line('return'); ?>';
 		var gDelete = '<?php line('delete'); ?>';
 		var gApiKey = '<?php echo get_key(); ?>';
+		
 	</script>
 
 </head>
@@ -87,10 +89,10 @@
 							</div>
 
 							<!-- item-->
-							<a href="<?php echo site_url('user/main_form/'.get_user_id()); ?>" data-toggle="modal" data-target="#ajaxModal" class="dropdown-item notify-item">
+							<!-- <a href="<?php echo site_url('user/main_form/'.get_user_id()); ?>" data-toggle="modal" data-target="#ajaxModal" class="dropdown-item notify-item">
 								<i class="fa fa-user"></i>
 								<span>แก้ไขข้อมูล</span>
-							</a>
+							</a> -->
 
 							<!-- item-->
 							<a href="<?php echo site_url('auth/logout'); ?>" class="dropdown-item notify-item">

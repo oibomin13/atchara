@@ -38,10 +38,11 @@ class Borrow_model extends MY_Model
 
     public function find($id)
     {
-        $this->db->select('b.*, m.name as member_name');
+        $this->db->select('b.*, m.fullname as member_name');
         $this->db->from('borrow b');
         $this->db->join('member m', 'm.id=b.member_id');
         $this->db->where('b.id', $id);
+        $this->db->order_by('borrow_date', 'DESC');
         $query = $this->db->get();
         return $query->row_array();
     }
@@ -49,13 +50,13 @@ class Borrow_model extends MY_Model
     public function find_with_page($param)
     {
         $keyword = $param['keyword'];
-        $this->db->select('b.*, m.name as member_name, m.code as member_code');
+        $this->db->select('b.*, m.fullname as member_name, m.code as member_code');
 
         $condition = "1=1";
         if (!empty($keyword)) {
             $id_num = "";
             if(is_numeric($keyword))$id_num = "or m.id like '%{$keyword}%'";
-            $condition .= " and (m.code like '%{$keyword}%' or m.name like '%{$keyword}%' or m.email like '%{$keyword}%' or m.tel like '%{$keyword}%' ".$id_num.")";
+            $condition .= " and (m.code like '%{$keyword}%' or m.fullname like '%{$keyword}%' or m.email like '%{$keyword}%' or m.tel like '%{$keyword}%' ".$id_num.")";
         }
 
         // status filter
@@ -69,8 +70,8 @@ class Borrow_model extends MY_Model
         $this->db->join('member m', 'b.member_id=m.id');
         $this->db->where($condition);
         $this->db->limit($param['page_size'], $param['start']);
-        $this->db->order_by($param['column'], $param['dir']);
-
+        //$this->db->order_by($param['column'], $param['dir']);
+        $this->db->order_by('borrow_date', 'DESC');
         $query = $this->db->get();
         $data = [];
         if ($query->num_rows() > 0) {
@@ -88,14 +89,15 @@ class Borrow_model extends MY_Model
     public function find_with_page_borrow($param,$mid)
     {
         $keyword = $param['keyword'];
-        $this->db->select('b.*, m.name as member_name, m.code as member_code, d.borrow_quantity, d.return_quantity, d.return_status as detail_status,
+        $this->db->select('b.*, m.fullname as member_name, m.code as member_code, d.borrow_quantity, d.return_quantity, d.return_status as detail_status,
         p.name as product_name, p.code as product_code, s.code as serial_code');
 
         $condition = "1=1";
         if (!empty($keyword)) {
-            $condition .= " and (m.code like '%{$keyword}%' or m.name like '%{$keyword}%' or p.code like '%{$keyword}%' or p.name like '%{$keyword}%' or s.code like '%{$keyword}%')";
+            $condition .= " and (m.code like '%{$keyword}%' or m.fullname like '%{$keyword}%' or p.code like '%{$keyword}%' or p.name like '%{$keyword}%' or s.code like '%{$keyword}%')";
         }
-
+        // search by category
+        $condition .= !empty($param['category_id']) ? " and c.id='{$param['category_id']}'" : "";
         // status filter
         $condition .= !empty($param['only_borrow']) ? " and return_status=0" : "";
         if(get_usertype() !== 'ADMIN')$condition .= " and m.id=".$mid;
@@ -105,6 +107,7 @@ class Borrow_model extends MY_Model
         $this->db->join('product p', 'd.product_id=p.id');
         $this->db->join('serial_number s', 'p.id=s.product_id and s.id=d.serial_number_id', 'left');
         $this->db->join('member m', 'b.member_id=m.id');
+        $this->db->join('category c', 'p.category_id=c.id');
         $this->db->where($condition);
         $this->db->limit($param['page_size'], $param['start']);
 
@@ -127,6 +130,7 @@ class Borrow_model extends MY_Model
             ->join('member m', 'b.member_id=m.id')
             ->join('borrow_detail d', 'b.id=d.borrow_id')
             ->join('product p', 'd.product_id=p.id')
+            ->join('category c', 'p.category_id=c.id')
             ->join('serial_number s', 'p.id=s.product_id and s.id=d.serial_number_id', 'left')
             ->where($condition)
             ->count_all_results();

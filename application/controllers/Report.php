@@ -58,19 +58,19 @@ class Report extends CI_Controller
     public function borrow()
     {
         $head['main_title'] = get_line('menu_rpt_borrow');
-        
+        $data['categories'] = get_categorie();
         $head['utype'] = get_usertype();
         $head['count_not_approve'] = $this->Borrow_model->count_not_approve();
         
         $this->load->view('layout/header', $head);
-        $this->load->view('report/borrow');
+        $this->load->view('report/borrow',$data);
         $this->load->view('layout/footer');
     }
 
     public function get_borrow_datatables(){
-        $member = $this->Member_model->find_user_id(get_user_id());
-        $mid = (string)$member[0]['id'];
-
+        // $member = $this->Member_model->find_user_id(get_user_id());
+        // $mid = (string)$member[0]['id'];
+        $mid =get_user_id();
         $dash_board = $this->input->get('dashboard');
         $order_index = $this->input->get('order[0][column]');
 		$param['page_size'] = empty($dash_board) ? $this->input->get('length') : 5;
@@ -81,6 +81,8 @@ class Report extends CI_Controller
 		$param['dir'] = (empty($dash_board)) ? $this->input->get('order[0][dir]') : 'DESC';
         $param['only_borrow'] = false;               
         $param['dash_board'] = $dash_board;
+        // search
+        $param['category_id'] = $this->input->get('category_id');
         
         $results = $this->Borrow_model->find_with_page_borrow($param,$mid);
 

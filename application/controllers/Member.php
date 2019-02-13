@@ -86,7 +86,7 @@ class Member extends CI_Controller
 
 	public function name_check()
 	{
-		$result = $this->Member_model->find_name($this->input->post('name'));
+		$result = $this->Member_model->find_name($this->input->post('fullname'));
 		if (!empty($result)) {
 			echo ($this->input->post('id') == $result['id']) ? 'true' : 'false';
 		} else {

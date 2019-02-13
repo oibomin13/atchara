@@ -74,7 +74,7 @@ class Key extends REST_Controller {
             // It doesn't appear the key exists
             $this->response([
                 'status' => FALSE,
-                'message' => 'Invalid API key'
+                'message' => 'Invalid API key1'
             ], REST_Controller::HTTP_BAD_REQUEST); // BAD_REQUEST (400) being the HTTP response code
         }
 
@@ -105,7 +105,7 @@ class Key extends REST_Controller {
             // It doesn't appear the key exists
             $this->response([
                 'status' => FALSE,
-                'message' => 'Invalid API key'
+                'message' => 'Invalid API key2'
             ], REST_Controller::HTTP_BAD_REQUEST); // BAD_REQUEST (400) being the HTTP response code
         }
 
@@ -142,7 +142,7 @@ class Key extends REST_Controller {
             // It doesn't appear the key exists
             $this->response([
                 'status' => FALSE,
-                'message' => 'Invalid API key'
+                'message' => 'Invalid API key3'
             ], REST_Controller::HTTP_BAD_REQUEST); // BAD_REQUEST (400) being the HTTP response code
         }
 
@@ -180,7 +180,7 @@ class Key extends REST_Controller {
             // It doesn't appear the key exists
             $this->response([
                 'status' => FALSE,
-                'message' => 'Invalid API key'
+                'message' => 'Invalid API key4'
             ], REST_Controller::HTTP_BAD_REQUEST); // BAD_REQUEST (400) being the HTTP response code
         }
 

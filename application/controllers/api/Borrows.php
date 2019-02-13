@@ -33,8 +33,10 @@ class Borrows extends REST_Controller
 	public function index_get()
 	{
 		$id = $this->get('id');
+		$onbtn = $this->input->get('onbtn');
 		if ($id === null) {
 			$data = $this->Borrow_model->find_all_orderby();
+			$data['onbtn']="add";
 		} else {
 			$data = $this->Borrow_model->find($id);
 			$data['borrow_date'] = !empty($data['borrow_date']) ? str_date($data['borrow_date']) : null;
@@ -82,7 +84,7 @@ class Borrows extends REST_Controller
 		// $row['return_status'] = empty($post['id']) ? false : true;
 		$row['return_status'] = empty($post['id']) ? 0 : 1;
 		//$row['return_date'] = empty($post['id']) ? null : db_date($post['return_date']);
-
+		$btn =$post['onbtn'];
 		/* response */
 		$data = array('status' => true, 'message' => 'save successful.');
 
@@ -107,22 +109,47 @@ class Borrows extends REST_Controller
 		$this->Borrowdetail_model->delete_by_borrow($borrow_last_id);
 		$err_products = array();
 		foreach ($post['products'] as $key => $product) {
-			if(!empty($post['schedule_date'])){				
-				
-				if($product['is_return'] == 0){
-					$header_status = 2;
+			if($btn=="edit"){
+				$return_status = 0;
+				$header_status = 0;
+			}else if ($btn=="approve") {
+				$header_status = 1;
+				if($product['is_return'] == 0){					
 					$return_status = 2;
 				}
 				else {
 					$return_status = ($product['borrow_quantity'] - $product['return_quantity']) == 0 ? 2 : 1;
-					$header_status = 1;
+					// $header_status = 1;
 				}
+			}else if ($btn=="return") {
+				if(!empty($post['schedule_date'])){	
+					if($product['is_return'] == 0){
+						// $header_status = 1;
+						$return_status = 2;
+					}
+					else {
+						$return_status = ($product['borrow_quantity'] - $product['return_quantity']) == 0 ? 2 : 1;
+						// $header_status = 1;
+					}
+					
+				}
+			}
+			// if(!empty($post['schedule_date'])){				
 				
-			}
-			else {
-				$return_status = 0;
-				$header_status = 0;
-			}
+			// 	if($product['is_return'] == 0){
+			// 		$header_status = 2;
+			// 		$return_status = 2;
+			// 	}
+			// 	else {
+			// 		$return_status = ($product['borrow_quantity'] - $product['return_quantity']) == 0 ? 2 : 1;
+			// 		$header_status = 1;
+			// 	}
+				
+			// }
+			// else {
+			// 	$return_status = 0;
+			// 	$header_status = 0;
+			// }
 			// $return_status = ($product['borrow_quantity'] - $product['return_quantity']) == 0 ? true : false;
 			$serial_number_id = ($product['is_serial_number']) ? $product['serial_number_id'] : null;
 			$product['serial_number_id'] = $serial_number_id;

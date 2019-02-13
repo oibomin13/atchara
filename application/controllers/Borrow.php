@@ -24,9 +24,8 @@ class Borrow extends CI_Controller
 	public function main_form($id = 0)
 	{
 		$data['id'] = $id;
-		$member = $this->Member_model->find_user_id(get_user_id());
-		$data['mid'] = (string)$member[0]['id'];
-		$data['mname'] = (string)$member[0]['name'];
+		$data['mid'] = get_user_id();
+		$data['mname'] = get_user_fullname();
 		$data['uid'] = get_user_id();
 		$data['utype'] = get_usertype();
 		//echo $data['fullname'];die();
@@ -45,13 +44,14 @@ class Borrow extends CI_Controller
 			$param['dir'] = $this->input->get('order[0][dir]');
 			$param['only_borrow'] = false;
 		}else{
-			$member = $this->Member_model->find_user_id(get_user_id());
+			// $member = $this->Member_model->find_user_id(get_user_id());
 			$order_index = $this->input->get('order[0][column]');
 			$param['page_size'] = $this->input->get('length');
 			$param['start'] = $this->input->get('start');
 			$param['draw'] = $this->input->get('draw');
 			// $param['keyword'] = trim($this->input->get('search[value]'));
-			$param['keyword'] = $member[0]['id'];
+			// $param['keyword'] = $member[0]['id'];
+			$param['keyword'] = get_user_id();
 			$param['column'] = $this->input->get("columns[{$order_index}][data]");
 			$param['dir'] = $this->input->get('order[0][dir]');
 			$param['only_borrow'] = false;

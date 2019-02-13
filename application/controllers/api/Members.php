@@ -35,20 +35,20 @@ class Members extends REST_Controller
 		if ($id === null) {
             // query by keyword
 			$keyword = $this->input->get('keyword');
-			$uid = $this->input->get('uid');
-			if (empty($keyword) && empty($uid)) {
+			if (empty($keyword)) {
 				$data = $this->Member_model->find_all();
 			} elseif (!empty($keyword)) {
 				$data = $this->Member_model->find_keyword($keyword);
-			} elseif (!empty($uid)) {
-				$data = $this->Member_model->find_user_id($uid);
-			}
+			} 
+			// elseif (!empty($uid)) {
+			// 	$data = $this->Member_model->find_user_id($uid);
+			// }
 			//$data = (empty($keyword)) ? $this->Member_model->find_all() : $this->Member_model->find_keyword($keyword);
 		} else {
 			$data = $this->Member_model->find($id);
 			if (!empty($data)) {
-				$fields = array('department', 'membertype', 'user');
-
+				// $fields = array('department', 'membertype', 'user');
+				$fields = array('department', 'membertype');
 				foreach ($fields as $val) {
 					$data[$val]['value'] = $data[$val . '_id'];
 					$data[$val]['label'] = $data[$val . '_name'];
@@ -68,7 +68,7 @@ class Members extends REST_Controller
 		}
 
 		$row['id'] = $post['id'];
-		$row['name'] = $post['user']['label'];
+		$row['fullname'] = $post['fullname'];
 		//$post['name'];
 		$row['code'] = $post['code'];
 		$row['username'] = $post['username'];
@@ -78,7 +78,17 @@ class Members extends REST_Controller
 		$row['address'] = $post['address'];
 		$row['department_id'] = $post['department']['value'];
 		$row['membertype_id'] = $post['membertype']['value'];
-		$row['user_id'] = $post['user']['value'];
+		if ($row['membertype_id']==3) {
+			$row['usertype']="ADMIN";
+		}
+		else{
+			$row['usertype']="USER";
+		}
+		$row['idcard'] = $post['idcard'];
+		if (empty($post['id']) or !empty($post['password'])) {
+			$row['password'] = hashkey($post['password']);
+		}
+		// $row['user_id'] = $post['user']['value'];
 		// $row['is_active'] = isset($post['is_active']) ? $post['is_active'] : 0;
 
         /* response */

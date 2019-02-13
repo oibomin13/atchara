@@ -14,33 +14,35 @@ class Member_model extends MY_Model
 	{
 		$data = array(
 			'id' => null,
-			'name' => null,
+			'fullname' => null,
 			'code' => null,
-			//'username' => null,
-			//'password' => null,
+			'username' => null,
+			'password' => null,
 			'email' => null,
 			'tel' => null,
 			'address' => null,
-			//'image_name' => null,
+			'idcard' => null,
 			//'is_active' => true,
 			'department_id' => null,
 			'membertype_id' => null,
 			'created_at' => date('Y-m-d H:i:s'),
 			'modified_at' => null,
 			'created_on' => get_user_id(),
-			'modified_on' => null,
-			'user_id' => null,
+			'modified_on' => null,			
+			'usertype' => null,
+			'last_login' => null,
+			'key' => null,
 		);
 		return $data;
 	}
 
 	public function find($id)
 	{ 
-		$this->db->select('m.*, d.name as department_name, t.name as membertype_name, u.fullname as user_name');
+		$this->db->select('m.*, d.name as department_name, t.name as membertype_name');
 		$this->db->from('member m');
 		$this->db->join('department d', 'd.id=m.department_id');
 		$this->db->join('membertype t', 't.id=m.membertype_id');
-		$this->db->join('user u', 'u.id=m.user_id');
+		// $this->db->join('user u', 'u.id=m.user_id');
 		$this->db->where('m.id', $id);
 		$query = $this->db->get();
 		return $query->row_array();
@@ -53,7 +55,7 @@ class Member_model extends MY_Model
 
 		$condition = "1=1";
 		if (!empty($keyword)) {
-			$condition .= " and (m.name like '%{$keyword}%' or m.code like '%{$keyword}%' or d.name like '%{$keyword}%' or t.name like '%{$keyword}%')";
+			$condition .= " and (m.fullname like '%{$keyword}%' or m.code like '%{$keyword}%' or d.name like '%{$keyword}%' or t.name like '%{$keyword}%')";
 		}
 
 		$this->db->where($condition);
@@ -82,7 +84,7 @@ class Member_model extends MY_Model
 
 	public function find_name($name)
 	{
-		$query = $this->db->select('id')->from('member')->where(array('name' => $name))->get();
+		$query = $this->db->select('id')->from('member')->where(array('fullname' => $name))->get();
 		return $query->row_array();
 	}
 	public function find_code($code)
@@ -103,6 +105,33 @@ class Member_model extends MY_Model
 			->from('member')
 			->like('code', $keyword)
 			->or_like('name', $keyword)
+			->get();
+		return $query->result_array();
+	}
+//usermodel
+	public function login($username, $password)
+	{
+		$query = $this->db->select('*')->from('member')->where(array('username' => $username, 'password' => $password))->get();
+		return $query->row_array();
+	}
+	public function find_username($username)
+	{
+		$query = $this->db->select('id')->from('member')->where(array('username' => $username))->get();
+		return $query->row_array();
+	}	
+
+	public function find_id_and_key($id, $key)
+	{
+		$query = $this->db->select('*')->from('member')->where(array('id' => $id, 'key' => $key))->get();
+		return $query->row_array();
+	}
+
+	public function find_last_login()
+	{
+		$query = $this->db->from('member')
+			->where('last_login !=', null)
+			->limit(5)
+			->order_by('last_login', 'DESC')
 			->get();
 		return $query->result_array();
 	}

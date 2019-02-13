@@ -7,6 +7,7 @@ class Auth extends CI_Controller
     {
         parent::__construct();
         $this->load->model('User_model');
+        $this->load->model('Member_model');
     }
 
     public function index()
@@ -18,7 +19,8 @@ class Auth extends CI_Controller
     {
         $username = $this->input->post('username');
         $password = hashkey($this->input->post('password'));
-        $result = $this->User_model->login($username, $password);
+        $result = $this->Member_model->login($username, $password);
+        //$result = $this->User_model->login($username, $password);
         if (!empty($result)) {
             $key = hashkey(uniqid());
             // Add user data in session

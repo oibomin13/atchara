@@ -80,7 +80,7 @@ function get_running($prefix)
 function set_sess_data($result, $key)
 {
     $CI = &get_instance();
-    $CI->load->model('User_model');
+    $CI->load->model('Member_model');
     $data = array(
         'id' => $result['id'],
         'username' => $result['username'],
@@ -93,7 +93,7 @@ function set_sess_data($result, $key)
     $user['id'] = $result['id'];
     $user['key'] = $key;
     $user['last_login'] = date('Y-m-d H:i:s');
-    $CI->User_model->update($user);    
+    $CI->Member_model->update($user);    
     $CI->session->set_userdata(app_session(), $data);
 }
 

@@ -1,5 +1,6 @@
 <!-- start center content -->
 <div class="row">
+	<?php echo form_hidden('current_id', get_user_id()); ?>
 	<?php echo form_hidden('utype', get_usertype()); ?>
 	<div class="col-xl-12">
 		<div class="card mb-3">
@@ -8,7 +9,7 @@
 					<i class="fa fa-table"></i> <?php line('dt_listdata'); ?>
 				</h3>
 				<div class="pull-right">
-					<a href="<?php echo site_url('borrow/main_form'); ?>" role="button" class="btn btn-dark btn-create" data-toggle="modal" data-target="#ajaxLargeModal"><?php echo line(''); ?>เพิ่มรายการเบิกจ่าย</a>
+					<a href="<?php echo site_url('borrow/main_form'); ?>" role="button" data-name="add" class="btn btn-dark btn-create" data-toggle="modal" data-target="#ajaxLargeModal"><?php echo line(''); ?>เพิ่มรายการเบิกจ่าย</a>
 				</div>				
 			</div>
 

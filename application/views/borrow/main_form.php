@@ -15,7 +15,6 @@
 				<?php echo form_hidden('id', $id); ?>
 				<?php echo form_hidden('mid', $mid); ?>
 				<?php echo form_hidden('mname', $mname); ?>
-				<?php echo form_hidden('uid', $uid); ?>
 				<?php echo form_hidden('utype', get_usertype()); ?>
 				<input type="text" v-model="hideVal" style="display:none;">
 				<div class="form-row">
@@ -37,7 +36,7 @@
 						<!-- <?php echo form_input(array('name' => 'borrow_date', 'v-model' => 'item.borrow_date', 'class' => 'form-control', 'autocomplete' => 'off', 'readonly' => '')); ?> -->
 						 <input  type="text" autocomplete="off" readonly="readonly" class="form-control" name="borrow_date"   >
 					</div>
-					<template v-if="item.id!=0">
+					<template v-if="item.return_status >= 0 && item.id > 0">
 						<?php
 							if($utype == 'ADMIN'){
 								echo '<div class="form-group col-sm-4">';
@@ -86,8 +85,12 @@
 										<th><?php echo line('bod_borrow_quantity'); ?></th>
 										<th><?php echo line('bod_total_quantity'); ?></th>
 									</template>
+									<template v-else-if="item.return_status==0">
+										<th><?php echo line('bod_borrow_quantity'); ?></th>										
+										<!-- <?php if($utype == 'ADMIN') {echo '<th>'; echo line('bod_return_quantity'); echo '</th>';}?>					 -->
+									</template>
 									<template v-else>
-										<th><?php echo line('bod_borrow_quantity'); ?></th>
+										<th><?php echo line('bod_borrow_quantity'); ?></th>										
 										<?php if($utype == 'ADMIN') {echo '<th>'; echo line('bod_return_quantity'); echo '</th>';}?>					
 									</template>
 									<th><?php echo line('unit'); ?></th>			
@@ -99,6 +102,7 @@
 									<tr v-for="(product, index) in item.products" class="table-light">
 										<td>{{ product.code }}</td>
 										<td>{{ product.name }}</td>
+										<!-- <td>{{ item.onbtn }}</td> -->
 										<td>{{ product.serial_code }}</td>
 										<template v-if="item.id==0">
 											<td>
@@ -108,25 +112,55 @@
 										</template>
 										<template v-else-if="item.return_status == 0">
 											<td><?php echo form_number(array('v-model' => 'product.borrow_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off')); ?></td>
-											<?php if($utype == 'ADMIN'){ echo '<td>';
-																		 echo form_number(array('v-model' => 'product.return_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off'));
-																		 echo '</td>'; } ?>								
+											<!-- <template v-if="item.onbtn == 'approve'">
+												<td>{{ product.borrow_quantity | formatNumber }}</td>
+											</template>
+											<template v-else>
+												<td><?php echo form_number(array('v-model' => 'product.borrow_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off')); ?></td>
+											</template> -->
+											<!-- <template v-if="product.is_return == 1">
+											<?php if($utype == 'ADMIN'){ 
+												echo '<td>';
+												echo form_number(array('v-model' => 'product.return_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off'));
+												echo '</td>'; 
+											} ?>											
+											</template>
+											<template v-else>
+												<td></td>					
+											</template> -->
 										</template>
 										<template v-else-if="item.return_status == 1">
 											<td>{{ product.borrow_quantity | formatNumber }}</td>
-											<?php if($utype == 'ADMIN'){ echo '<td>';
-																		 echo form_number(array('v-model' => 'product.return_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off'));
-																		 echo '</td>'; } ?>								
+											<template v-if="product.is_return == 1">
+											<?php if($utype == 'ADMIN'){ 
+												echo '<td>';
+												echo form_number(array('v-model' => 'product.return_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off'));
+												echo '</td>'; } ?>		
+											</template>		
+											<template v-else>
+												<td></td>					
+											</template>				
 										</template>
 										<template v-else-if="item.return_status == 2">
 											<td>{{ product.borrow_quantity | formatNumber }}</td>
-											<?php if($utype == 'ADMIN'){ echo '<td>';
-																		 echo form_number(array('v-model' => 'product.return_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off'));
-																		 echo '</td>'; } ?>								
+											<template v-if="product.is_return == 1">
+											<?php if($utype == 'ADMIN'){ 
+												echo '<td>';
+												echo form_number(array('v-model' => 'product.return_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off'));
+												echo '</td>'; } ?>			
+											</template>			
+											<template v-else>
+												<td></td>					
+											</template>		
 										</template>
 										<template v-else>
 											<td>{{ product.borrow_quantity | formatNumber }}</td>
-											<td><?php echo form_number(array('v-model' => 'product.return_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off')); ?></td>		 								
+											<template v-if="product.is_return == 1">
+												<td><?php echo form_number(array('v-model' => 'product.return_quantity', 'v-on:change' => 'changeQty(index)', 'class' => 'form-control form-control-sm', 'style' => 'width:100px;', 'autocomplete' => 'off')); ?></td>	
+											</template>
+											<template v-else>
+												<td></td>					
+											</template>
 										</template>
 										<td>{{ product.unit_name }}</td>
 										<td v-if="item.id==0">
@@ -163,9 +197,9 @@ var app = new Vue({
 	data: {
 		item: {
 			id: $('input[name=id]').val(),
-			uid: $('input[name=uid]').val(),
 			mid: $('input[name=mid]').val(),
 			mname: $('input[name=mname]').val(),
+			utype: $('input[name=utype]').val(),
 		},
 		members: [],
 		products: [],
@@ -236,7 +270,7 @@ var app = new Vue({
 					if (response.status === 200) {
 						var reMember = response.data.map(obj => {
 								var rObj = {};
-								rObj = {value: obj.id, label: obj.code + ' - ' + obj.name}
+								rObj = {value: obj.id, label: obj.code + ' - ' + obj.fullname}
 								return rObj;
 							});
 
@@ -263,15 +297,10 @@ var app = new Vue({
 				if (response.status === 200) {
 					if (this.item.id != 0) {
 						this.item = response.data;
-						// console.log(response.data);
+						this.item.utype= $('input[name=utype]').val();
+						console.log(this.item);
 						// this.item.member = "m";
-					} else{						
-						
-						// this.item = response.data;
-						// this.item.member['value']= this.item.mid;
-						// this.item.member['label']= this.item.mname;
-						// console.log(this.item );
-						//this.item.member_name="m";
+					} else{												
 						this.item.member=this.item.mname;
 						this.item.member_id=this.item.mid;
 						this.item.products = [];
@@ -280,23 +309,23 @@ var app = new Vue({
 				}
 			}
 		);
-		/* get member by user_id */
-		axios.get(gUrl + 'api/members?uid='+this.item.uid, {
-				headers: {
-					'api-key': gApiKey
-				}
-			}).then(
-				response => {
-					if (response.status === 200) {
-						var reMember = response.data.map(obj => {
-								var rObj = {};
-								rObj = {value: obj.id, label: obj.code + ' - ' + obj.name}
-								return rObj;
-							});						
-						this.members = reMember;
-					}					
-				}
-			);
+		// /* get member by user_id */
+		// axios.get(gUrl + 'api/members/'+this.item.id, {
+		// 		headers: {
+		// 			'api-key': gApiKey
+		// 		}
+		// 	}).then(
+		// 		response => {
+		// 			if (response.status === 200) {
+		// 				var reMember = response.data.map(obj => {
+		// 						var rObj = {};
+		// 						rObj = {value: obj.id, label: obj.code + ' - ' + obj.fullname}
+		// 						return rObj;
+		// 					});						
+		// 				this.members = reMember;
+		// 			}					
+		// 		}
+		// 	);
 		/* product data */
 		axios.get(gUrl + 'api/products?with_serial=1', {
 		headers: {'api-key': gApiKey}
@@ -342,6 +371,8 @@ var app = new Vue({
 		});*/
 		var dtt = moment(Date.now()).format('DD/MM/YYYY');
 		$('input[name=borrow_date]').val(dtt);
+
+
 		/* schedule single date picker */
 		$('input[name=schedule_date]').daterangepicker(datepickerOption, 
 		function(start, end, label) {
@@ -349,7 +380,6 @@ var app = new Vue({
 			app.item.schedule_date = dt;
 			app.changeHide();
 		});
-
 		/* return single date picker */
 		// $('input[name=return_date]').daterangepicker(datepickerOption, 
 		// function(start, end, label) {

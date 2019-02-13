@@ -18,7 +18,7 @@ class Home extends CI_Controller
         $data['count_member'] = $this->Member_model->count_active();
         $data['count_product'] = $this->Product_model->count_active();
         $data['count_remain_return'] = $this->Borrow_model->count_not_return();
-        $data['last_login'] = $this->User_model->find_last_login();
+        $data['last_login'] = $this->Member_model->find_last_login();
 
         $head['utype'] = get_usertype();
         $head['count_not_approve'] = $this->Borrow_model->count_not_approve();

@@ -62,6 +62,7 @@ $lang['mem_repassword'] = 'Re-password';
 $lang['mem_email'] = 'อีเมล์';
 $lang['mem_tel'] = 'เบอร์โทรศัพท์';
 $lang['mem_address'] = 'ที่อยู่';
+$lang['mem_idcard'] = 'เลขบัตรประจำตัวประชาชน';
 
 // user
 $lang['usr_username'] = 'ชื่อผู้ใช้งาน';
@@ -93,6 +94,7 @@ $lang['action'] = 'การกระทำ';
 $lang['add'] = 'เพิ่ม';
 $lang['edit'] = 'แก้ไข';
 $lang['approve'] = 'อนุมัติ';
+$lang['return'] = 'คืน';
 $lang['delete'] = 'ลบ';
 $lang['active'] = '';
 $lang['status'] = 'สถานะ';

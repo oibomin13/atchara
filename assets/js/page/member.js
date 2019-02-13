@@ -8,16 +8,18 @@ $(document).ready(function () {
 		},
 		'columns': [
             {
-				data: 'code',
-				render: function (data, type, row) {
-					return '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' + row['id'] + '" data-toggle="modal" data-target="#ajaxLargeModal" class="btn-edit">' + data + '</a> ';
-				}
+            	data: 'code'
+				// data: 'code',
+				// render: function (data, type, row) {
+				// 	return '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' + row['id'] + '" data-toggle="modal" data-target="#ajaxLargeModal" class="btn-edit">' + data + '</a> ';
+				// }
             },
             {
-				data: 'name',
-				render: function (data, type, row) {
-					return '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' + row['id'] + '" data-toggle="modal" data-target="#ajaxLargeModal" class="btn-edit">' + data + '</a> ';
-				}
+            	data: 'fullname'
+				// data: 'mamber_name',
+				// render: function (data, type, row) {
+				// 	return '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' + row['id'] + '" data-toggle="modal" data-target="#ajaxLargeModal" class="btn-edit">' + data + '</a> ';
+				// }
             },
             {
                 data: 'department_name'
@@ -78,14 +80,14 @@ $(document).ready(function () {
 				return false;
 			},
 			rules: {
-				name: {
+				fullname: {
 					required: true,
 					remote: {
 						url: gUrl + gClass + '/name_check',
 						type: 'post',
 						data: {
-							name: function () {
-								return app.item.name;
+							fullname: function () {
+								return app.item.fullname;
 							},
 							id: app.item.id
 						}
@@ -103,6 +105,39 @@ $(document).ready(function () {
 							id: app.item.id
 						}
 					}
+                },
+                username: {
+                    required: true,
+                    alphanumeric: true,
+                    minlength: 6,
+                    maxlength: 16,
+					remote: {
+						url: gUrl + gClass + '/username_check',
+						type: 'post',
+						data: {
+							name: function () {
+								return app.item.name;
+							},
+							id: app.item.id
+						}
+					}
+                },
+                password: {
+                    required: function(){
+                        return ($('input[name=id]').val() == '0') ? true : false
+                    },
+                    alphanumeric: true,
+                    minlength: 6,
+                    maxlength: 16
+                },
+                confpassword: {
+                    equalTo: '#password'
+                },
+                usertype:{
+                    required: true
+                },
+                fullname:{
+                    required: true
                 }
 			},
 			messages: {

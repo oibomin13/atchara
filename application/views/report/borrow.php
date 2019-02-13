@@ -7,7 +7,11 @@
 					<i class="fa fa-table"></i> <?php line('dt_listdata'); ?>
 				</h3>
 				<div class="pull-right">
-					
+					<form class="form-inline">
+						<div class="input-group">
+						<?php echo form_dropdown('category_id', $categories, '', array('class' => 'form-control select2','style'=>'width:200px')); ?>
+						</div>
+					</form>
 				</div>				
 			</div>
 

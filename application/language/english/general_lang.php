@@ -61,7 +61,7 @@ $lang['mem_repassword'] = 'Re-password';
 $lang['mem_email'] = 'Email';
 $lang['mem_tel'] = 'Tel';
 $lang['mem_address'] = 'Address';
-
+$lang['mem_idcard'] = 'CitizenID';
 // user
 $lang['usr_username'] = 'Username';
 $lang['usr_password'] = 'Password';
@@ -94,6 +94,7 @@ $lang['edit'] = 'Edit';
 $lang['delete'] = 'Delete';
 $lang['active'] = 'Active';
 $lang['approve'] = 'Approve';
+$lang['return'] = 'Return';
 $lang['status'] = 'Status';
 $lang['unit'] = 'Unit';
 $lang['login'] = 'Login';
