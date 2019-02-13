@@ -32,7 +32,16 @@ class Products extends REST_Controller
         $id = $this->get('id');
         if ($id === null) {
             $with_serial = $this->input->get('with_serial');
-            $data = empty($with_serial) ? $this->Product_model->find_all() : $this->Product_model->find_with_serial();
+            $category_id = $this->input->get('category_id');
+            if (empty($with_serial) && empty($category_id)) {
+                $data=$this->Product_model->find_all();
+            }else if(!empty($with_serial)){
+                $data=$this->Product_model->find_with_serial();
+            }else if(!empty($category_id)){
+                $data=$this->Product_model->find_with_category($id);
+            }
+
+            // $data = empty($with_serial) ? $this->Product_model->find_all() : $this->Product_model->find_with_serial();
         } else {
             $data = $this->Product_model->find($id);
             if (!empty($data)) {

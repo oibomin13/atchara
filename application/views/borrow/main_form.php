@@ -63,7 +63,15 @@
 					</div> -->
 
 				</div>
-
+				<div class="form-row" v-if="item.id==0">
+					<div class="form-group col-sm-12">
+						<label for="product_id">
+							<?php line('prd_name'); ?>
+						</label>
+						<!-- <?php echo form_dropdown('category_id', $categories, '', array('class' => 'form-control select2','style'=>'width:200px')); ?> -->
+						<v-select :options="categorys" v-model="categoryId" v-on:input="changeRoute(categoryId)" placeholder="เลือกรายการ"></v-select>
+					</div>
+				</div>
 				<div class="form-row" v-if="item.id==0">
 					<div class="form-group col-sm-12">
 						<label for="product_id">
@@ -191,6 +199,7 @@
 </div>
 
 <script type="text/javascript">
+
 Vue.component('v-select', VueSelect.VueSelect);
 var app = new Vue({
 	el: '#app',
@@ -204,6 +213,9 @@ var app = new Vue({
 		members: [],
 		products: [],
 		productId: '',
+		categorys: [],
+		categoryId: '',
+		allproducts:[],
 		hideVal: true,
 	},
 	watch: {		
@@ -255,6 +267,21 @@ var app = new Vue({
 				return;
 			}
 		},
+		changeRoute: function(a) {
+			//console.log(a.value);
+			// this.item.categorys[index].id;
+			var reProducts=[];
+        	for (var i = 0; i < this.allproducts.length; i++) {
+        		if (this.allproducts[i].category_id == a.value) {
+					console.log(this.allproducts[i]);
+					reProducts.push(this.allproducts[i]);
+        		}
+        		
+			}
+			this.products=reProducts;
+			//console.log(this.products);
+        	
+      	},
 		searchMember(search, loading) {
 			loading(true);			
 			this.search(loading, search, this);
@@ -288,6 +315,7 @@ var app = new Vue({
 		/* get data */
 		var dtt = moment(Date.now()).format('DD/MM/YYYY');
 		this.item.borrow_date = dtt;
+
 		axios.get(gUrl + 'api/borrows/' + this.item.id, {
 			headers: {
 				'api-key': gApiKey
@@ -309,6 +337,21 @@ var app = new Vue({
 				}
 			}
 		);
+		/* get categories data */
+		axios.get(gUrl + 'api/categories/', {
+			headers: {'api-key': gApiKey}
+		}).then(
+				response => {
+					if (response.status === 200) {			
+					var reCategory = response.data.map(obj => {
+								var rObj = {};
+								rObj = {value: obj.id, label: obj.name}
+								return rObj;
+							});						
+						this.categorys = reCategory;
+					}
+				}
+			);
 		// /* get member by user_id */
 		// axios.get(gUrl + 'api/members/'+this.item.id, {
 		// 		headers: {
@@ -328,7 +371,7 @@ var app = new Vue({
 		// 	);
 		/* product data */
 		axios.get(gUrl + 'api/products?with_serial=1', {
-		headers: {'api-key': gApiKey}
+			headers: {'api-key': gApiKey}
 		}).then(
 				response => {
 					if (response.status === 200) {
@@ -343,6 +386,7 @@ var app = new Vue({
 										label: obj.code + ' - ' + obj.name + showSerial,
 										code: obj.code,
 										price: obj.price,
+										category_id:obj.category_id,
 										quantity: obj.quantity,
 										unit_name: obj.unit_name,
 										remain: (obj.is_serial_number == 1) ? obj.serial_quantity : obj.quantity,
@@ -356,6 +400,7 @@ var app = new Vue({
 							});
 
 							this.products = reProducts;
+							this.allproducts= reProducts;
 						}
 					}
 				}

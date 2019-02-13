@@ -62,7 +62,8 @@ $(document).ready(function() {
           
           var btnEdit = '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' +row["id"] +'" data-name="edit" role="button" class="btn btn-outline-primary btn-sm btn-edit" data-toggle="modal" data-target="#ajaxLargeModal"><i class="fa fa-edit"></i> ' + gEdit + '</a> ';
           var btnApprove = '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' +row["id"] +'" data-name="approve"  role="button" class="btn btn-outline-success btn-sm btn-approve" data-toggle="modal" data-target="#ajaxLargeModal"><i class="fa fa-check-square"></i> ' + gApprove + '</a> ';
-          var btnReturn = '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' +row["id"] +'" data-name="return"  role="button" class="btn btn-outline-success btn-sm btn-approve" data-toggle="modal" data-target="#ajaxLargeModal"><i class="fa fa-check-square"></i> ' + gReturn + '</a> ';
+          var btnReturn = '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' +row["id"] +'" data-name="return"  role="button" class="btn btn-outline-warning btn-sm btn-approve" data-toggle="modal" data-target="#ajaxLargeModal"><i class="fa fa-undo"></i> ' + gReturn + '</a> ';
+          var btnPrint = '<a href="' + gUrl + gClass + '/main_form/' + row['id'] + '" data-id="' +row["id"] +'" data-name="return"  role="button" class="btn btn-outline-secondary btn-sm btn-print" data-toggle="modal" data-target="#ajaxLargeModal"><i class="fa fa-print"></i> Print</a> ';
           var btnDelete =
             '<a href="#" data-href="' +
             gUrl +
@@ -92,9 +93,9 @@ $(document).ready(function() {
             //   return btnEdit;
             // }
           }else if(return_status== 1) {
-            return btnReturn;
+            return btnReturn + btnPrint;
           }else{
-            return "";
+            return btnPrint;
           }
 
 
@@ -224,4 +225,13 @@ $(document).ready(function() {
 
     confirmBox("ลบข้อมูล", callback);
   });
+  // serach category
+  $('body').on('change', 'select[name=category_id]', function(e){
+    // searchData.category_id = $('select[name=category_id]').val();
+    // table.ajax.reload();
+    console.log("test");
+  });
+
+  // init select2
+  $('.select2').select2();
 });

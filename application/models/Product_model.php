@@ -89,6 +89,17 @@ class Product_model extends MY_Model
         $query = $this->db->get();  
         return $query->result_array();
     }
+    
+    public function find_with_category($id)
+    {               
+        $this->db->select('p.*,s.id as serial_id, s.code as serial_code, s.quantity as serial_quantity, u.name as unit_name');
+        $this->db->from('product p');
+        $this->db->join('serial_number s', 'p.id=s.product_id', 'left'); 
+        $this->db->join('unit u', 'u.id=p.unit_id');
+        $this->db->where('p.category_id', $id);
+        $query = $this->db->get();  
+        return $query->result_array();
+    }
 
     public function find_name($name)
     {

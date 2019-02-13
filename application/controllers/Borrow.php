@@ -28,6 +28,8 @@ class Borrow extends CI_Controller
 		$data['mname'] = get_user_fullname();
 		$data['uid'] = get_user_id();
 		$data['utype'] = get_usertype();
+		$data['categories'] = get_categorie();
+
 		//echo $data['fullname'];die();
 		$this->load->view('borrow/main_form', $data);
 	}
