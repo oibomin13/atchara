@@ -4,7 +4,7 @@ class Category_model extends MY_Model {
 	public function __construct(){
 		parent::__construct();
 		$this->_table = 'category';
-		$this->delete_db = TRUE;
+		$this->delete_db = false;
 		$this->delete_tbref = array('product');
 	}
 

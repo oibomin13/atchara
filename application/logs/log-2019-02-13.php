@@ -12097,3 +12097,3399 @@ DEBUG - 2019-02-13 13:53:27 --> Session class already loaded. Second attempt ign
 ERROR - 2019-02-13 13:53:27 --> 404 Page Not Found: Assets/js
 ERROR - 2019-02-13 13:53:27 --> 404 Page Not Found: Assets/js
 DEBUG - 2019-02-13 13:53:27 --> Total execution time: 0.1922
+DEBUG - 2019-02-13 16:21:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:32 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 16:21:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:21:32 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:21:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:21:32 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:21:32 --> Total execution time: 0.1260
+DEBUG - 2019-02-13 16:21:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:21:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:21:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:21:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:21:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:21:33 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:21:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:21:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:21:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:49 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 16:21:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:21:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:21:49 --> Total execution time: 0.1300
+DEBUG - 2019-02-13 16:21:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:21:49 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:21:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:21:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:21:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:21:49 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 16:21:49 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:21:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:21:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:21:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:21:49 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:21:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:21:49 --> Total execution time: 0.1564
+DEBUG - 2019-02-13 16:22:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:00 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:22:00 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:22:00 --> Total execution time: 0.1547
+DEBUG - 2019-02-13 16:22:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:22:00 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:22:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:00 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:22:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:22:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:22:01 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:22:01 --> Total execution time: 0.1919
+DEBUG - 2019-02-13 16:22:16 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:16 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:16 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:16 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:16 --> Total execution time: 0.1010
+DEBUG - 2019-02-13 16:22:16 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:16 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:16 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:22:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:22:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:22:16 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:22:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:20 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:20 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 16:22:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:20 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:20 --> Total execution time: 0.1256
+DEBUG - 2019-02-13 16:22:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:22:21 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:22:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:22:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:22:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:22:21 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:22:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:22 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:22 --> Total execution time: 0.1351
+DEBUG - 2019-02-13 16:22:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:22 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:22:22 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:22:22 --> Total execution time: 0.1693
+DEBUG - 2019-02-13 16:22:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:22:22 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:22:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:22 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:22:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:22:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:22:22 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:22:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:22:22 --> Total execution time: 0.2110
+DEBUG - 2019-02-13 16:22:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:23 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:23 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:22:23 --> Could not find the language line ""
+ERROR - 2019-02-13 16:22:23 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:22:23 --> Total execution time: 0.1942
+DEBUG - 2019-02-13 16:22:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:22:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:22:23 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:23 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:23 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:22:23 --> Total execution time: 0.1733
+DEBUG - 2019-02-13 16:22:23 --> Total execution time: 0.2053
+DEBUG - 2019-02-13 16:24:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:24:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:24:24 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:24:24 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:24:24 --> Total execution time: 0.1606
+DEBUG - 2019-02-13 16:24:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:24:24 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:24:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:24:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:24:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:24:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:24:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:24:24 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:24:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:24:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:24:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:24:24 --> Total execution time: 0.1516
+DEBUG - 2019-02-13 16:24:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:24:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:24:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:24:25 --> Could not find the language line ""
+ERROR - 2019-02-13 16:24:25 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:24:25 --> Total execution time: 0.1777
+DEBUG - 2019-02-13 16:24:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:24:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:24:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:24:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:24:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:24:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:24:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:24:25 --> Total execution time: 0.1563
+DEBUG - 2019-02-13 16:24:25 --> Total execution time: 0.2207
+DEBUG - 2019-02-13 16:25:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:10 --> Total execution time: 0.1176
+DEBUG - 2019-02-13 16:25:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:25:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:25:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:25:10 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:25:16 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:16 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:16 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:16 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 16:25:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:17 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:17 --> Total execution time: 0.1235
+DEBUG - 2019-02-13 16:25:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:25:17 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:25:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:25:17 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:25:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:25:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:25:17 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:25:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:17 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:17 --> Total execution time: 0.1105
+DEBUG - 2019-02-13 16:25:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:18 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:25:18 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:25:18 --> Total execution time: 0.1691
+DEBUG - 2019-02-13 16:25:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:25:18 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:25:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:18 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:25:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:25:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:25:18 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:25:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:25:18 --> Total execution time: 0.2140
+DEBUG - 2019-02-13 16:25:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:18 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:25:18 --> Could not find the language line ""
+ERROR - 2019-02-13 16:25:18 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:25:18 --> Total execution time: 0.1689
+DEBUG - 2019-02-13 16:25:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:25:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:25:19 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:19 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:19 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:25:19 --> Total execution time: 0.1742
+DEBUG - 2019-02-13 16:25:19 --> Total execution time: 0.2163
+DEBUG - 2019-02-13 16:25:19 --> Total execution time: 0.2570
+DEBUG - 2019-02-13 16:26:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:26:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:26:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:26:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:26:48 --> Total execution time: 0.1097
+DEBUG - 2019-02-13 16:26:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:26:48 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:26:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:26:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:26:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:26:48 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:26:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:26:57 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:26:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:57 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 16:26:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:26:57 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:26:57 --> Total execution time: 0.1299
+DEBUG - 2019-02-13 16:26:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:26:57 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:26:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:26:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:26:57 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 16:26:57 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:26:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:26:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:26:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:26:57 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:26:57 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:26:57 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:26:57 --> Total execution time: 0.2287
+DEBUG - 2019-02-13 16:27:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:27:00 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:27:00 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:27:00 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:27:00 --> Total execution time: 0.1574
+DEBUG - 2019-02-13 16:27:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:27:00 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:27:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:27:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:27:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:27:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:27:00 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:27:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:27:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:27:00 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:27:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:27:00 --> Total execution time: 0.2224
+DEBUG - 2019-02-13 16:27:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:27:02 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:27:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:27:02 --> Could not find the language line ""
+ERROR - 2019-02-13 16:27:02 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:27:02 --> Total execution time: 0.1748
+DEBUG - 2019-02-13 16:27:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:27:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:27:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:27:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:27:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:27:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:27:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:27:03 --> Total execution time: 0.1554
+DEBUG - 2019-02-13 16:27:03 --> Total execution time: 0.1876
+DEBUG - 2019-02-13 16:28:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:28:22 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:28:23 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:28:23 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:28:23 --> Total execution time: 0.1812
+DEBUG - 2019-02-13 16:28:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:28:23 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:28:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:28:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:28:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:28:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:28:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:28:23 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:28:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:28:23 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:28:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:28:23 --> Total execution time: 0.1645
+DEBUG - 2019-02-13 16:28:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:28:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:28:24 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:28:24 --> Could not find the language line ""
+ERROR - 2019-02-13 16:28:24 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:28:24 --> Total execution time: 0.1723
+DEBUG - 2019-02-13 16:28:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:28:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:28:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:28:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:28:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:28:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:28:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:28:24 --> Total execution time: 0.1711
+DEBUG - 2019-02-13 16:28:24 --> Total execution time: 0.2188
+DEBUG - 2019-02-13 16:32:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:32:38 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:32:38 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:32:38 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:32:38 --> Total execution time: 0.1501
+DEBUG - 2019-02-13 16:32:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:32:39 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:32:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:32:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:32:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:32:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:32:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:32:39 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:32:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:32:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:32:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:32:39 --> Total execution time: 0.1499
+DEBUG - 2019-02-13 16:32:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:32:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:32:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:32:40 --> Could not find the language line ""
+ERROR - 2019-02-13 16:32:41 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:32:41 --> Total execution time: 0.1676
+DEBUG - 2019-02-13 16:32:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:32:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:32:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:32:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:32:41 --> Total execution time: 0.1662
+DEBUG - 2019-02-13 16:32:41 --> Total execution time: 0.2001
+DEBUG - 2019-02-13 16:33:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:33:24 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:33:24 --> Could not find the language line ""
+ERROR - 2019-02-13 16:33:24 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:33:24 --> Total execution time: 0.1732
+DEBUG - 2019-02-13 16:33:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:33:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:33:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:33:25 --> Total execution time: 0.1536
+DEBUG - 2019-02-13 16:33:25 --> Total execution time: 0.1831
+DEBUG - 2019-02-13 16:33:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:33:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:33:40 --> Total execution time: 0.1072
+DEBUG - 2019-02-13 16:33:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:33:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:33:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:33:40 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:33:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:33:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:47 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 16:33:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:33:47 --> Total execution time: 0.1597
+DEBUG - 2019-02-13 16:33:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:33:47 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:33:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:33:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:33:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:33:48 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:33:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:33:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:33:48 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:33:48 --> Total execution time: 0.1313
+DEBUG - 2019-02-13 16:34:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:34:41 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:34:41 --> Total execution time: 0.1362
+DEBUG - 2019-02-13 16:34:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:34:41 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:34:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:34:41 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:34:41 --> Total execution time: 0.1704
+ERROR - 2019-02-13 16:34:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:34:41 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:34:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:42 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:34:42 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:34:42 --> Total execution time: 0.1274
+DEBUG - 2019-02-13 16:34:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:34:42 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:34:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:43 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:43 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:43 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:43 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:43 --> Total execution time: 0.1541
+DEBUG - 2019-02-13 16:34:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:34:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:34:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:34:43 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:34:44 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:44 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:44 --> Total execution time: 0.1029
+DEBUG - 2019-02-13 16:34:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:45 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:34:45 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:34:45 --> Total execution time: 0.1412
+DEBUG - 2019-02-13 16:34:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:45 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:45 --> Total execution time: 0.1200
+DEBUG - 2019-02-13 16:34:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:52 --> Total execution time: 0.1172
+DEBUG - 2019-02-13 16:34:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:52 --> Total execution time: 0.1335
+DEBUG - 2019-02-13 16:34:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:52 --> Total execution time: 0.1241
+DEBUG - 2019-02-13 16:34:55 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:56 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:34:56 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:34:56 --> Total execution time: 0.1204
+DEBUG - 2019-02-13 16:34:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:34:56 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:34:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:56 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:34:56 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:34:56 --> Total execution time: 0.1829
+ERROR - 2019-02-13 16:34:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:34:56 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:34:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:56 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:34:56 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:34:56 --> Total execution time: 0.1408
+DEBUG - 2019-02-13 16:34:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:34:57 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:34:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:57 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:34:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:34:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:34:57 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:34:57 --> Total execution time: 0.1816
+DEBUG - 2019-02-13 16:34:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:57 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:57 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:34:57 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:34:57 --> Total execution time: 0.1624
+DEBUG - 2019-02-13 16:34:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:34:58 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:34:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:58 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:34:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:34:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:34:58 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:34:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:34:58 --> Total execution time: 0.2133
+DEBUG - 2019-02-13 16:34:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:58 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:58 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:34:58 --> Could not find the language line ""
+ERROR - 2019-02-13 16:34:58 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:34:58 --> Total execution time: 0.1692
+DEBUG - 2019-02-13 16:34:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:34:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:34:58 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:58 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:58 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:34:59 --> Total execution time: 0.1772
+DEBUG - 2019-02-13 16:34:59 --> Total execution time: 0.2147
+DEBUG - 2019-02-13 16:34:59 --> Total execution time: 0.2500
+DEBUG - 2019-02-13 16:37:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:37:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:37:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:37:03 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:37:03 --> Could not find the language line ""
+ERROR - 2019-02-13 16:37:03 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:37:03 --> Total execution time: 0.1867
+DEBUG - 2019-02-13 16:37:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:37:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:37:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:37:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:37:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:37:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:37:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:37:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:37:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:37:03 --> Total execution time: 0.1529
+DEBUG - 2019-02-13 16:37:03 --> Total execution time: 0.1848
+DEBUG - 2019-02-13 16:37:03 --> Total execution time: 0.2208
+DEBUG - 2019-02-13 16:38:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:38:38 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:38:38 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:38:38 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:38:38 --> Total execution time: 0.1514
+DEBUG - 2019-02-13 16:38:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:38:38 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:38:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:38:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:38:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:38:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:38:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:38:38 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:38:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:38:38 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:38:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:38:38 --> Total execution time: 0.1604
+DEBUG - 2019-02-13 16:38:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:38:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:38:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:38:40 --> Could not find the language line ""
+ERROR - 2019-02-13 16:38:40 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:38:40 --> Total execution time: 0.1882
+DEBUG - 2019-02-13 16:38:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:38:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:38:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:38:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:38:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:38:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:38:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:38:40 --> Total execution time: 0.1621
+DEBUG - 2019-02-13 16:38:40 --> Total execution time: 0.1905
+DEBUG - 2019-02-13 16:39:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:39:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:39:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:39:37 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:39:37 --> Total execution time: 0.1503
+DEBUG - 2019-02-13 16:39:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:39:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:39:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:39:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:39:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:39:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:39:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:39:37 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:39:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:39:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:39:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:39:37 --> Total execution time: 0.1730
+DEBUG - 2019-02-13 16:39:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:39:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:39:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:39:40 --> Could not find the language line ""
+ERROR - 2019-02-13 16:39:40 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:39:40 --> Total execution time: 0.1893
+DEBUG - 2019-02-13 16:39:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:39:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:39:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:39:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:39:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:39:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:39:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:39:40 --> Total execution time: 0.1622
+DEBUG - 2019-02-13 16:39:40 --> Total execution time: 0.1968
+DEBUG - 2019-02-13 16:39:40 --> Total execution time: 0.2311
+DEBUG - 2019-02-13 16:40:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:19 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:40:19 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:40:19 --> Total execution time: 0.1460
+DEBUG - 2019-02-13 16:40:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:40:19 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:40:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:40:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:40:19 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:40:19 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 16:40:19 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:40:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:19 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:40:19 --> Total execution time: 0.1826
+DEBUG - 2019-02-13 16:40:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:21 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:21 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:21 --> Total execution time: 0.1270
+DEBUG - 2019-02-13 16:40:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:40:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:40:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:40:22 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:40:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:26 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 16:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:26 --> Total execution time: 0.1483
+DEBUG - 2019-02-13 16:40:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:26 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 16:40:26 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:40:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:40:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:40:26 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:40:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:26 --> Total execution time: 0.1274
+DEBUG - 2019-02-13 16:40:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:28 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:40:29 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:40:29 --> Total execution time: 0.1606
+DEBUG - 2019-02-13 16:40:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:40:29 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:40:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:29 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:40:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:40:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:40:29 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:40:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:40:29 --> Total execution time: 0.2313
+DEBUG - 2019-02-13 16:40:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:30 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:30 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:40:30 --> Could not find the language line ""
+ERROR - 2019-02-13 16:40:30 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:40:30 --> Total execution time: 0.1708
+DEBUG - 2019-02-13 16:40:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:40:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:30 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:40:30 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:30 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:40:30 --> Total execution time: 0.1641
+DEBUG - 2019-02-13 16:40:30 --> Total execution time: 0.2260
+DEBUG - 2019-02-13 16:40:30 --> Total execution time: 0.2568
+DEBUG - 2019-02-13 16:41:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:41:45 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:41:45 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:41:45 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:41:45 --> Total execution time: 0.1584
+DEBUG - 2019-02-13 16:41:46 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:41:46 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:41:46 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:46 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:46 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:41:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:41:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:41:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:41:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:41:46 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:41:46 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:41:46 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:41:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:41:46 --> Total execution time: 0.1570
+DEBUG - 2019-02-13 16:41:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:41:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:41:47 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:41:47 --> Could not find the language line ""
+ERROR - 2019-02-13 16:41:47 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 16:41:47 --> Total execution time: 0.1906
+DEBUG - 2019-02-13 16:41:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:41:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:41:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:41:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:41:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:41:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:41:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:41:47 --> Total execution time: 0.1663
+DEBUG - 2019-02-13 16:41:47 --> Total execution time: 0.2088
+DEBUG - 2019-02-13 16:41:47 --> Total execution time: 0.2449
+DEBUG - 2019-02-13 16:47:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:47:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:47:11 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:47:11 --> Total execution time: 0.1246
+DEBUG - 2019-02-13 16:47:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:47:11 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:47:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:47:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:47:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:47:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:47:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:47:11 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:47:11 --> Total execution time: 0.1611
+ERROR - 2019-02-13 16:47:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:47:11 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:47:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:47:12 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:47:12 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:47:12 --> Total execution time: 0.1378
+DEBUG - 2019-02-13 16:47:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:47:12 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:47:12 --> Total execution time: 0.1150
+DEBUG - 2019-02-13 16:47:16 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:47:16 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:47:16 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:47:16 --> Total execution time: 0.1180
+DEBUG - 2019-02-13 16:47:16 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:47:16 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:47:16 --> Total execution time: 0.1241
+DEBUG - 2019-02-13 16:47:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:47:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:47:18 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:47:18 --> Total execution time: 0.0970
+DEBUG - 2019-02-13 16:49:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:49:39 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:49:39 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:49:39 --> Total execution time: 0.1590
+DEBUG - 2019-02-13 16:49:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:49:39 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:49:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:49:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:39 --> Total execution time: 0.1708
+ERROR - 2019-02-13 16:49:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:49:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:49:39 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:49:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:49:39 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:49:39 --> Could not find the language line ""
+ERROR - 2019-02-13 16:49:39 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 16:49:39 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 16:49:39 --> Total execution time: 0.1919
+DEBUG - 2019-02-13 16:49:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:49:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:49:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:49:40 --> Total execution time: 0.1607
+DEBUG - 2019-02-13 16:49:40 --> Total execution time: 0.1942
+DEBUG - 2019-02-13 16:49:40 --> Total execution time: 0.2428
+DEBUG - 2019-02-13 16:49:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:49:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:49:58 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:49:58 --> Total execution time: 0.1165
+DEBUG - 2019-02-13 16:52:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:11 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:52:11 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:52:11 --> Total execution time: 0.1532
+DEBUG - 2019-02-13 16:52:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:52:12 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:52:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:52:12 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:52:12 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 16:52:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:52:12 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:52:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:12 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:52:12 --> Total execution time: 0.1703
+DEBUG - 2019-02-13 16:52:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:13 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:52:13 --> Could not find the language line ""
+ERROR - 2019-02-13 16:52:13 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 16:52:13 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 16:52:13 --> Total execution time: 0.1971
+DEBUG - 2019-02-13 16:52:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:13 --> Total execution time: 0.1484
+DEBUG - 2019-02-13 16:52:13 --> Total execution time: 0.1801
+DEBUG - 2019-02-13 16:52:13 --> Total execution time: 0.2116
+DEBUG - 2019-02-13 16:52:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:17 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:18 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:18 --> Total execution time: 0.1063
+DEBUG - 2019-02-13 16:52:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:52:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:52:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:52:18 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:52:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:24 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 16:52:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:24 --> Total execution time: 0.1428
+DEBUG - 2019-02-13 16:52:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:24 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 16:52:24 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:52:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:52:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:52:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:52:24 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:52:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:24 --> Total execution time: 0.1480
+DEBUG - 2019-02-13 16:52:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:26 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:52:26 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:52:26 --> Total execution time: 0.1748
+DEBUG - 2019-02-13 16:52:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:52:26 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:52:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:52:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:52:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:52:26 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:52:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:52:26 --> Total execution time: 0.2150
+DEBUG - 2019-02-13 16:52:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:52:27 --> Could not find the language line ""
+ERROR - 2019-02-13 16:52:27 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 16:52:27 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 16:52:27 --> Total execution time: 0.2089
+DEBUG - 2019-02-13 16:52:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:52:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:52:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:52:27 --> Total execution time: 0.1618
+DEBUG - 2019-02-13 16:52:27 --> Total execution time: 0.2133
+DEBUG - 2019-02-13 16:58:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:43 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:43 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:58:43 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:58:43 --> Total execution time: 0.1645
+DEBUG - 2019-02-13 16:58:43 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:43 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:43 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:43 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 16:58:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:58:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:58:43 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:58:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:58:43 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:58:43 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:43 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 16:58:43 --> Total execution time: 0.1549
+DEBUG - 2019-02-13 16:58:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:45 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:45 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:45 --> Total execution time: 0.1342
+DEBUG - 2019-02-13 16:58:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:58:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:58:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:58:45 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:58:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:49 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 16:58:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:49 --> Total execution time: 0.1396
+DEBUG - 2019-02-13 16:58:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:50 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 16:58:50 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:58:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:58:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:58:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:58:50 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:58:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:50 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:50 --> Total execution time: 0.1239
+DEBUG - 2019-02-13 16:58:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:58:51 --> Could not find the language line ""
+DEBUG - 2019-02-13 16:58:51 --> Total execution time: 0.1572
+DEBUG - 2019-02-13 16:58:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 16:58:51 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 16:58:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 16:58:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 16:58:51 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:58:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:58:51 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 16:58:51 --> Total execution time: 0.2224
+DEBUG - 2019-02-13 16:58:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 16:58:52 --> Could not find the language line ""
+ERROR - 2019-02-13 16:58:52 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 16:58:52 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 16:58:52 --> Total execution time: 0.2449
+DEBUG - 2019-02-13 16:58:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 16:58:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 16:58:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 16:58:52 --> Total execution time: 0.1573
+DEBUG - 2019-02-13 16:58:52 --> Total execution time: 0.1877
+DEBUG - 2019-02-13 16:58:52 --> Total execution time: 0.2109
+DEBUG - 2019-02-13 17:01:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:01:38 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:01:38 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:01:38 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:01:38 --> Total execution time: 0.1574
+DEBUG - 2019-02-13 17:01:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:01:39 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:01:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:01:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:01:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:01:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:01:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:01:39 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:01:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:01:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:01:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:01:39 --> Total execution time: 0.1482
+DEBUG - 2019-02-13 17:01:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:01:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:01:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:01:40 --> Could not find the language line ""
+ERROR - 2019-02-13 17:01:40 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:01:40 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:01:41 --> Total execution time: 0.1968
+DEBUG - 2019-02-13 17:01:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:01:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:01:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:01:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:01:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:01:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:01:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:01:41 --> Total execution time: 0.1737
+DEBUG - 2019-02-13 17:01:41 --> Total execution time: 0.2330
+DEBUG - 2019-02-13 17:01:41 --> Total execution time: 0.2675
+DEBUG - 2019-02-13 17:02:04 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:04 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:02:04 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:04 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:02:04 --> Total execution time: 0.1060
+DEBUG - 2019-02-13 17:02:05 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:05 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:05 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:02:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:02:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:02:05 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:02:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:02:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:11 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 17:02:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:02:11 --> Total execution time: 0.1475
+DEBUG - 2019-02-13 17:02:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:02:11 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:02:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:02:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:02:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:02:11 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:02:12 --> Total execution time: 0.1773
+DEBUG - 2019-02-13 17:02:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:12 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:02:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:02:13 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:02:13 --> Total execution time: 0.1715
+DEBUG - 2019-02-13 17:02:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:02:13 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:02:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:02:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:02:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:02:13 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:02:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:02:13 --> Total execution time: 0.2003
+DEBUG - 2019-02-13 17:02:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:02:13 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:02:13 --> Could not find the language line ""
+ERROR - 2019-02-13 17:02:13 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:02:13 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:02:13 --> Total execution time: 0.2124
+DEBUG - 2019-02-13 17:02:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:02:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:02:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:02:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:02:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:02:14 --> Total execution time: 0.1529
+DEBUG - 2019-02-13 17:02:14 --> Total execution time: 0.2104
+DEBUG - 2019-02-13 17:04:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:04:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:04:26 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:04:26 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:04:26 --> Total execution time: 0.2417
+DEBUG - 2019-02-13 17:04:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:04:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:04:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:04:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:04:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:04:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:04:27 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-13 17:04:27 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:04:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:04:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:04:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:04:27 --> Total execution time: 0.1581
+DEBUG - 2019-02-13 17:04:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:04:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:04:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:04:27 --> Could not find the language line ""
+ERROR - 2019-02-13 17:04:27 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:04:27 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:04:27 --> Total execution time: 0.2055
+DEBUG - 2019-02-13 17:04:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:04:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:04:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:04:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:04:28 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:04:28 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:04:28 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:04:28 --> Total execution time: 0.1588
+DEBUG - 2019-02-13 17:04:28 --> Total execution time: 0.2037
+DEBUG - 2019-02-13 17:06:06 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:07 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:07 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:06:07 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:06:07 --> Total execution time: 0.1632
+DEBUG - 2019-02-13 17:06:07 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:06:07 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:06:07 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:07 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:07 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:06:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:06:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:06:07 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:06:07 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:07 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:06:07 --> Total execution time: 0.2115
+DEBUG - 2019-02-13 17:06:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:08 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:06:08 --> Could not find the language line ""
+ERROR - 2019-02-13 17:06:08 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:06:08 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:06:08 --> Total execution time: 0.2012
+DEBUG - 2019-02-13 17:06:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:08 --> Total execution time: 0.1560
+DEBUG - 2019-02-13 17:06:08 --> Total execution time: 0.1958
+DEBUG - 2019-02-13 17:06:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:06:51 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:06:51 --> Total execution time: 0.1537
+DEBUG - 2019-02-13 17:06:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:06:51 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:06:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:06:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:06:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:06:51 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:06:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:06:52 --> Total execution time: 0.1879
+DEBUG - 2019-02-13 17:06:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:52 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:06:52 --> Could not find the language line ""
+ERROR - 2019-02-13 17:06:52 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:06:52 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:06:52 --> Total execution time: 0.2035
+DEBUG - 2019-02-13 17:06:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:06:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:06:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:06:53 --> Total execution time: 0.1726
+DEBUG - 2019-02-13 17:06:53 --> Total execution time: 0.2183
+DEBUG - 2019-02-13 17:07:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:12 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:13 --> Total execution time: 0.1106
+DEBUG - 2019-02-13 17:07:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:07:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:07:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:07:13 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:07:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:20 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:20 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 17:07:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:20 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:20 --> Total execution time: 0.1229
+DEBUG - 2019-02-13 17:07:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:20 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:07:20 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:07:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:07:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:07:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:07:20 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:07:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:21 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:21 --> Total execution time: 0.1397
+DEBUG - 2019-02-13 17:07:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:24 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:07:24 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:07:24 --> Total execution time: 0.1511
+DEBUG - 2019-02-13 17:07:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:07:24 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:07:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:07:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:07:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:07:25 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:07:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:07:25 --> Total execution time: 0.2180
+DEBUG - 2019-02-13 17:07:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:07:25 --> Could not find the language line ""
+ERROR - 2019-02-13 17:07:25 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:07:25 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:07:25 --> Total execution time: 0.2126
+DEBUG - 2019-02-13 17:07:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:07:25 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\atchara\application\controllers\api\Categories.php 33
+DEBUG - 2019-02-13 17:07:25 --> Total execution time: 0.1880
+DEBUG - 2019-02-13 17:07:25 --> Total execution time: 0.2208
+DEBUG - 2019-02-13 17:07:25 --> Total execution time: 0.2527
+DEBUG - 2019-02-13 17:07:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:49 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:07:49 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:07:49 --> Total execution time: 0.1503
+DEBUG - 2019-02-13 17:07:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:07:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:07:49 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-13 17:07:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:07:49 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:07:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:07:50 --> Total execution time: 0.1463
+DEBUG - 2019-02-13 17:07:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:50 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:50 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:07:50 --> Could not find the language line ""
+ERROR - 2019-02-13 17:07:50 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:07:50 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:07:50 --> Total execution time: 0.2007
+DEBUG - 2019-02-13 17:07:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:07:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:07:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:07:51 --> Total execution time: 0.1593
+DEBUG - 2019-02-13 17:07:51 --> Total execution time: 0.2206
+ERROR - 2019-02-13 17:07:51 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\atchara\application\controllers\api\Categories.php 33
+DEBUG - 2019-02-13 17:07:51 --> Total execution time: 0.2736
+DEBUG - 2019-02-13 17:08:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:12 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:08:12 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:08:12 --> Total execution time: 0.1712
+DEBUG - 2019-02-13 17:08:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:08:13 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:08:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:08:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:08:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:08:13 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:08:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:08:13 --> Total execution time: 0.1672
+DEBUG - 2019-02-13 17:08:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:14 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:08:14 --> Could not find the language line ""
+ERROR - 2019-02-13 17:08:14 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:08:14 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:08:14 --> Total execution time: 0.2083
+DEBUG - 2019-02-13 17:08:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:14 --> Total execution time: 0.1587
+DEBUG - 2019-02-13 17:08:14 --> Total execution time: 0.1916
+DEBUG - 2019-02-13 17:08:14 --> Total execution time: 0.2238
+DEBUG - 2019-02-13 17:08:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:08:37 --> Could not find the language line ""
+ERROR - 2019-02-13 17:08:37 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:08:37 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:08:37 --> Total execution time: 0.2206
+DEBUG - 2019-02-13 17:08:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:08:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:08:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:08:37 --> Total execution time: 0.1469
+DEBUG - 2019-02-13 17:08:37 --> Total execution time: 0.1845
+DEBUG - 2019-02-13 17:08:37 --> Total execution time: 0.2079
+DEBUG - 2019-02-13 17:11:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:03 --> Total execution time: 0.1191
+DEBUG - 2019-02-13 17:11:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:11:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:04 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:20 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:20 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:20 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 17:11:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:20 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:20 --> Total execution time: 0.1534
+DEBUG - 2019-02-13 17:11:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:11:21 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:11:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:21 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:11:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:21 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:21 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:11:21 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:21 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:21 --> Total execution time: 0.1800
+DEBUG - 2019-02-13 17:11:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:23 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 17:11:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:24 --> Total execution time: 0.1274
+DEBUG - 2019-02-13 17:11:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:11:24 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:11:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:11:24 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:24 --> Total execution time: 0.1769
+ERROR - 2019-02-13 17:11:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:24 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:25 --> Total execution time: 0.1224
+DEBUG - 2019-02-13 17:11:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:11:25 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:11:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:11:25 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:25 --> Total execution time: 0.1701
+ERROR - 2019-02-13 17:11:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:25 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:30 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:30 --> Total execution time: 0.1109
+DEBUG - 2019-02-13 17:11:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:11:30 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:11:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:30 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:11:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:30 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:30 --> Total execution time: 0.2082
+ERROR - 2019-02-13 17:11:30 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:32 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:32 --> Total execution time: 0.1048
+DEBUG - 2019-02-13 17:11:34 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:34 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:34 --> Total execution time: 0.1163
+DEBUG - 2019-02-13 17:11:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:36 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:36 --> Total execution time: 0.1135
+DEBUG - 2019-02-13 17:11:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:11:36 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:11:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:36 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:36 --> Total execution time: 0.1863
+ERROR - 2019-02-13 17:11:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:36 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:38 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:38 --> Total execution time: 0.1033
+DEBUG - 2019-02-13 17:11:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:11:40 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:11:40 --> Total execution time: 0.1614
+DEBUG - 2019-02-13 17:11:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:11:40 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:11:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:11:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:11:40 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:11:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:11:40 --> Total execution time: 0.2473
+DEBUG - 2019-02-13 17:11:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:11:41 --> Could not find the language line ""
+ERROR - 2019-02-13 17:11:41 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:11:41 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:11:41 --> Total execution time: 0.1988
+DEBUG - 2019-02-13 17:11:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:11:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:11:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:11:42 --> Total execution time: 0.1519
+DEBUG - 2019-02-13 17:11:42 --> Total execution time: 0.1963
+DEBUG - 2019-02-13 17:15:01 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:15:01 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:15:01 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:15:01 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:15:01 --> Total execution time: 0.1987
+DEBUG - 2019-02-13 17:15:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:15:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:15:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:15:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:15:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:15:02 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-13 17:15:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:15:02 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:15:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:15:02 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:15:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:15:02 --> Total execution time: 0.1489
+DEBUG - 2019-02-13 17:15:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:15:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:15:03 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:15:03 --> Could not find the language line ""
+ERROR - 2019-02-13 17:15:03 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:15:03 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:15:03 --> Total execution time: 0.2049
+DEBUG - 2019-02-13 17:15:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:15:04 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:15:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:15:04 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:15:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:15:04 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:15:04 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:15:04 --> Total execution time: 0.1482
+DEBUG - 2019-02-13 17:15:04 --> Total execution time: 0.2034
+DEBUG - 2019-02-13 17:19:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:08 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 17:19:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:08 --> Total execution time: 0.1534
+DEBUG - 2019-02-13 17:19:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:09 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:09 --> Total execution time: 0.1202
+DEBUG - 2019-02-13 17:19:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:11 --> Total execution time: 0.1094
+DEBUG - 2019-02-13 17:19:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:11 --> Total execution time: 0.1251
+DEBUG - 2019-02-13 17:19:12 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:12 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:12 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:19:13 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:19:13 --> Total execution time: 0.1590
+DEBUG - 2019-02-13 17:19:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:19:13 --> Total execution time: 0.1343
+DEBUG - 2019-02-13 17:19:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:14 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:19:14 --> Could not find the language line ""
+ERROR - 2019-02-13 17:19:14 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:19:14 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:19:14 --> Total execution time: 0.1988
+DEBUG - 2019-02-13 17:19:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:14 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:14 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:14 --> Total execution time: 0.1776
+DEBUG - 2019-02-13 17:19:14 --> Total execution time: 0.2267
+DEBUG - 2019-02-13 17:19:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:19:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:19:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:19:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:19:17 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:19:35 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:35 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:35 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:19:35 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:19:35 --> Total execution time: 0.1780
+DEBUG - 2019-02-13 17:19:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:19:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:19:36 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:19:36 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:19:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:19:36 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:19:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:36 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:19:36 --> Total execution time: 0.1512
+DEBUG - 2019-02-13 17:19:36 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:19:37 --> Could not find the language line ""
+ERROR - 2019-02-13 17:19:37 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:19:37 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:19:37 --> Total execution time: 0.2089
+DEBUG - 2019-02-13 17:19:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:19:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:19:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:19:37 --> Total execution time: 0.1921
+DEBUG - 2019-02-13 17:19:37 --> Total execution time: 0.2255
+DEBUG - 2019-02-13 17:20:07 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:07 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:08 --> Total execution time: 0.1053
+DEBUG - 2019-02-13 17:20:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:20:08 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:20:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:20:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:20:08 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:20:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:13 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:13 --> Total execution time: 0.1122
+DEBUG - 2019-02-13 17:20:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:13 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:20:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:20:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:20:13 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:20:17 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:18 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:18 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 17:20:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:18 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:18 --> Total execution time: 0.1414
+DEBUG - 2019-02-13 17:20:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:20:18 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:20:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:20:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:20:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:20:18 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:20:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:18 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:18 --> Total execution time: 0.1275
+DEBUG - 2019-02-13 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:22 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:20:22 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:20:22 --> Total execution time: 0.1499
+DEBUG - 2019-02-13 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:20:22 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:22 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:20:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:20:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:20:22 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:20:22 --> Total execution time: 0.1918
+DEBUG - 2019-02-13 17:20:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:26 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:20:26 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:20:26 --> Total execution time: 0.1573
+DEBUG - 2019-02-13 17:20:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:20:26 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:20:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:20:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:20:26 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:20:26 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:20:26 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:20:26 --> Total execution time: 0.1982
+DEBUG - 2019-02-13 17:20:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:20:27 --> Could not find the language line ""
+ERROR - 2019-02-13 17:20:27 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:20:27 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:20:27 --> Total execution time: 0.2067
+DEBUG - 2019-02-13 17:20:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:20:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:20:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:20:27 --> Total execution time: 0.1391
+DEBUG - 2019-02-13 17:20:27 --> Total execution time: 0.1954
+DEBUG - 2019-02-13 17:20:27 --> Total execution time: 0.2287
+DEBUG - 2019-02-13 17:21:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:21:52 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:21:52 --> Total execution time: 0.1580
+DEBUG - 2019-02-13 17:21:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:21:53 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:21:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:21:53 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:21:53 --> Total execution time: 0.1698
+ERROR - 2019-02-13 17:21:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:21:53 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:21:55 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:55 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:21:55 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:21:55 --> Total execution time: 0.1397
+DEBUG - 2019-02-13 17:21:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:21:56 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:21:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:56 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:56 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:21:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:21:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:21:56 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:21:56 --> Total execution time: 0.1665
+DEBUG - 2019-02-13 17:21:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:58 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:21:58 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:21:58 --> Total execution time: 0.1238
+DEBUG - 2019-02-13 17:21:58 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:21:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:21:58 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:21:58 --> Total execution time: 0.1418
+DEBUG - 2019-02-13 17:22:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:22:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:22:00 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:22:00 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:22:00 --> Total execution time: 0.1286
+DEBUG - 2019-02-13 17:22:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:22:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:22:01 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:22:01 --> Total execution time: 0.1425
+DEBUG - 2019-02-13 17:23:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:23:25 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:23:25 --> Total execution time: 0.1279
+DEBUG - 2019-02-13 17:23:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:23:26 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:23:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:23:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:23:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:23:26 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:23:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:23:26 --> Total execution time: 0.1361
+DEBUG - 2019-02-13 17:23:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:23:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:23:53 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:23:53 --> Total execution time: 0.1694
+DEBUG - 2019-02-13 17:23:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:23:53 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:23:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:54 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:23:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:23:54 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:23:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:23:54 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:23:54 --> Total execution time: 0.2061
+DEBUG - 2019-02-13 17:23:54 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:54 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:23:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:23:54 --> Could not find the language line ""
+ERROR - 2019-02-13 17:23:54 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:23:54 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:23:54 --> Total execution time: 0.2102
+DEBUG - 2019-02-13 17:23:54 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:54 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:54 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:23:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:23:54 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:23:55 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:23:55 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:23:55 --> Total execution time: 0.1613
+DEBUG - 2019-02-13 17:23:55 --> Total execution time: 0.1986
+DEBUG - 2019-02-13 17:23:55 --> Total execution time: 0.2332
+DEBUG - 2019-02-13 17:24:00 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:01 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:01 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:01 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:01 --> Total execution time: 0.1291
+DEBUG - 2019-02-13 17:24:01 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:01 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:01 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:24:01 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:24:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:24:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:24:01 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:24:07 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:07 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:07 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:07 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 17:24:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:07 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:08 --> Total execution time: 0.1265
+DEBUG - 2019-02-13 17:24:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:08 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:24:08 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:24:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:08 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:24:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:24:08 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:24:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:24:08 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:24:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:08 --> Total execution time: 0.1324
+DEBUG - 2019-02-13 17:24:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:09 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:09 --> Total execution time: 0.1160
+DEBUG - 2019-02-13 17:24:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:24:09 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:24:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:24:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:24:10 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:24:10 --> Total execution time: 0.1690
+ERROR - 2019-02-13 17:24:10 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:24:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:10 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:24:10 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:24:10 --> Total execution time: 0.1732
+DEBUG - 2019-02-13 17:24:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:24:10 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:24:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:24:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:24:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:24:10 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:24:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:24:10 --> Total execution time: 0.2130
+DEBUG - 2019-02-13 17:24:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:11 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:24:11 --> Could not find the language line ""
+ERROR - 2019-02-13 17:24:11 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:24:11 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:24:11 --> Total execution time: 0.2203
+DEBUG - 2019-02-13 17:24:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:11 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:24:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:24:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:11 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:24:11 --> Total execution time: 0.2044
+DEBUG - 2019-02-13 17:24:11 --> Total execution time: 0.2366
+DEBUG - 2019-02-13 17:30:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:30:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:30:47 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:30:47 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:30:47 --> Total execution time: 0.1518
+DEBUG - 2019-02-13 17:30:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:30:47 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:30:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:30:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:30:47 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:30:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:30:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:30:47 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:30:47 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:30:47 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:30:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:30:48 --> Total execution time: 0.1447
+DEBUG - 2019-02-13 17:30:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:30:48 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:30:48 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:30:48 --> Could not find the language line ""
+ERROR - 2019-02-13 17:30:48 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:30:48 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:30:48 --> Total execution time: 0.2215
+DEBUG - 2019-02-13 17:30:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:30:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:30:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:30:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:30:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:30:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:30:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:30:49 --> Total execution time: 0.2970
+DEBUG - 2019-02-13 17:30:49 --> Total execution time: 0.3561
+DEBUG - 2019-02-13 17:31:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:31:37 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:31:37 --> Total execution time: 0.1487
+DEBUG - 2019-02-13 17:31:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:31:37 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:31:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:31:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:31:37 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-13 17:31:37 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:31:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:31:37 --> Total execution time: 0.1539
+DEBUG - 2019-02-13 17:31:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:39 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:31:39 --> Could not find the language line ""
+ERROR - 2019-02-13 17:31:39 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:31:39 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:31:39 --> Total execution time: 0.2036
+DEBUG - 2019-02-13 17:31:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:39 --> Total execution time: 0.2505
+DEBUG - 2019-02-13 17:31:39 --> Total execution time: 0.2841
+DEBUG - 2019-02-13 17:31:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:31:51 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:31:51 --> Total execution time: 0.1696
+DEBUG - 2019-02-13 17:31:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:31:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:31:51 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-13 17:31:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:31:51 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:31:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:31:51 --> Total execution time: 0.1466
+DEBUG - 2019-02-13 17:31:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:31:53 --> Could not find the language line ""
+ERROR - 2019-02-13 17:31:53 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:31:53 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:31:53 --> Total execution time: 0.1953
+DEBUG - 2019-02-13 17:31:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:54 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:54 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:54 --> Total execution time: 0.1847
+DEBUG - 2019-02-13 17:31:54 --> Total execution time: 0.2243
+DEBUG - 2019-02-13 17:31:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:57 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:57 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:31:57 --> Could not find the language line ""
+ERROR - 2019-02-13 17:31:57 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:31:57 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:31:57 --> Total execution time: 0.2200
+DEBUG - 2019-02-13 17:31:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:57 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:31:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:31:57 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:57 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:57 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:31:57 --> Total execution time: 0.1972
+DEBUG - 2019-02-13 17:31:58 --> Total execution time: 0.2305
+DEBUG - 2019-02-13 17:40:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:40:23 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:40:23 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:40:23 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:40:23 --> Total execution time: 0.1642
+DEBUG - 2019-02-13 17:40:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:40:24 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:40:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:40:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:40:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:40:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:40:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:40:24 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:40:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:40:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:40:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:40:24 --> Total execution time: 0.1411
+DEBUG - 2019-02-13 17:40:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:40:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:40:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:40:27 --> Could not find the language line ""
+ERROR - 2019-02-13 17:40:27 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:40:27 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:40:27 --> Total execution time: 0.2071
+DEBUG - 2019-02-13 17:40:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:40:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:40:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:40:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:40:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:40:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:40:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:40:27 --> Total execution time: 0.1751
+DEBUG - 2019-02-13 17:40:27 --> Total execution time: 0.2174
+DEBUG - 2019-02-13 17:41:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:41:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:41:27 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:41:27 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:41:27 --> Total execution time: 0.1667
+DEBUG - 2019-02-13 17:41:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:41:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:41:28 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:41:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:41:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:41:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:41:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:41:28 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:41:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:41:28 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:41:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:41:28 --> Total execution time: 0.1647
+DEBUG - 2019-02-13 17:41:31 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:41:31 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:41:31 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:41:31 --> Could not find the language line ""
+ERROR - 2019-02-13 17:41:31 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:41:31 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:41:31 --> Total execution time: 0.2560
+DEBUG - 2019-02-13 17:41:31 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:31 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:31 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:41:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:41:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:41:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:41:31 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:41:31 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:41:31 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:41:31 --> Total execution time: 0.1819
+DEBUG - 2019-02-13 17:41:31 --> Total execution time: 0.2237
+DEBUG - 2019-02-13 17:42:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:42:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:42:48 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:42:48 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:42:48 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:42:48 --> Total execution time: 0.1594
+DEBUG - 2019-02-13 17:42:48 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:42:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:42:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:42:49 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:42:49 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:42:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:42:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:42:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:42:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:42:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:42:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:42:49 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:42:49 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:42:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:42:49 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:42:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:42:49 --> Total execution time: 0.1865
+DEBUG - 2019-02-13 17:42:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:42:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:42:50 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:42:50 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:42:50 --> Could not find the language line ""
+ERROR - 2019-02-13 17:42:50 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:42:50 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:42:50 --> Total execution time: 0.2034
+DEBUG - 2019-02-13 17:42:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:42:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:42:50 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:42:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:42:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:42:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:42:50 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:42:50 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:42:50 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:42:50 --> Total execution time: 0.2339
+DEBUG - 2019-02-13 17:42:50 --> Total execution time: 0.2787
+DEBUG - 2019-02-13 17:45:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:45:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:45:18 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:45:18 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:45:18 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:45:18 --> Total execution time: 0.1696
+DEBUG - 2019-02-13 17:45:18 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:45:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:45:18 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:45:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:45:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:45:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:45:19 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:45:19 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:45:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:45:19 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:45:19 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:45:19 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:45:19 --> Total execution time: 0.2199
+DEBUG - 2019-02-13 17:47:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:21 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 17:47:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:21 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:21 --> Total execution time: 0.1412
+DEBUG - 2019-02-13 17:47:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:47:21 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:47:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:21 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:22 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:47:22 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:22 --> Total execution time: 0.1922
+ERROR - 2019-02-13 17:47:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:22 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:23 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:23 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:47:23 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:47:23 --> Total execution time: 0.1572
+DEBUG - 2019-02-13 17:47:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:47:23 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:47:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:23 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:47:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:23 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:47:23 --> Total execution time: 0.2481
+DEBUG - 2019-02-13 17:47:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:26 --> Total execution time: 0.1251
+DEBUG - 2019-02-13 17:47:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:47:26 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:47:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:47:26 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:26 --> Total execution time: 0.1873
+ERROR - 2019-02-13 17:47:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:26 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:27 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:27 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:27 --> Total execution time: 0.1228
+DEBUG - 2019-02-13 17:47:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:47:28 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:47:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:28 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:47:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:28 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:28 --> Total execution time: 0.2050
+DEBUG - 2019-02-13 17:47:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:30 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:30 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:30 --> Total execution time: 0.1365
+DEBUG - 2019-02-13 17:47:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:47:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:30 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:44 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:44 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:44 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:44 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 17:47:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:44 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:44 --> Total execution time: 0.1346
+DEBUG - 2019-02-13 17:47:44 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:45 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:47:45 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:47:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:45 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:45 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:47:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:45 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:47:45 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:45 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:45 --> Total execution time: 0.1792
+DEBUG - 2019-02-13 17:47:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:47:53 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:47:53 --> Total execution time: 0.1748
+DEBUG - 2019-02-13 17:47:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:47:53 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:47:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 17:47:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:47:53 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:47:53 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:47:53 --> Total execution time: 0.2222
+DEBUG - 2019-02-13 17:47:55 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:55 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:55 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:47:55 --> Could not find the language line ""
+ERROR - 2019-02-13 17:47:55 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:47:55 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:47:55 --> Total execution time: 0.2227
+DEBUG - 2019-02-13 17:47:55 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:55 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:55 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:47:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:47:55 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:55 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:55 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:47:55 --> Total execution time: 0.1911
+DEBUG - 2019-02-13 17:47:55 --> Total execution time: 0.2441
+DEBUG - 2019-02-13 17:48:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:48:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:48:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:48:40 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:48:40 --> Total execution time: 0.1611
+DEBUG - 2019-02-13 17:48:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:48:41 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:48:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:48:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:48:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:48:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:48:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:48:41 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:48:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:48:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:48:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:48:41 --> Total execution time: 0.1581
+DEBUG - 2019-02-13 17:48:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:48:42 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:48:42 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:48:42 --> Could not find the language line ""
+ERROR - 2019-02-13 17:48:42 --> Could not find the language line "bow_return_date"
+ERROR - 2019-02-13 17:48:42 --> Severity: Notice --> Undefined variable: categories C:\xampp\htdocs\atchara\application\views\borrow\main_form.php 71
+DEBUG - 2019-02-13 17:48:42 --> Total execution time: 0.2302
+DEBUG - 2019-02-13 17:48:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:48:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:48:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:48:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:48:42 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:48:42 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:48:42 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:48:42 --> Total execution time: 0.2338
+DEBUG - 2019-02-13 17:48:42 --> Total execution time: 0.2691
+DEBUG - 2019-02-13 17:57:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:57:30 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:57:30 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:57:30 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:57:30 --> Total execution time: 0.1645
+DEBUG - 2019-02-13 17:57:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:57:30 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:57:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:57:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:57:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:57:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:57:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:57:30 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:57:30 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:57:31 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:57:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:57:31 --> Total execution time: 0.1604
+DEBUG - 2019-02-13 17:57:33 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:57:33 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:57:33 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:57:33 --> Could not find the language line ""
+ERROR - 2019-02-13 17:57:33 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 17:57:33 --> Total execution time: 0.1977
+DEBUG - 2019-02-13 17:57:33 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:33 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:33 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:57:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:57:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:57:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:57:33 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:57:33 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:57:33 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:57:33 --> Total execution time: 0.1880
+DEBUG - 2019-02-13 17:57:33 --> Total execution time: 0.2465
+DEBUG - 2019-02-13 17:58:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:58:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:58:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:58:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:58:40 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:58:40 --> Total execution time: 0.1599
+DEBUG - 2019-02-13 17:58:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:58:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:58:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:58:41 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:58:41 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:58:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:58:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:58:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:58:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:58:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:58:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:58:41 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:58:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:58:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:58:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:58:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:58:41 --> Total execution time: 0.1936
+DEBUG - 2019-02-13 17:58:43 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:58:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:58:43 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:58:43 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:58:43 --> Could not find the language line ""
+ERROR - 2019-02-13 17:58:43 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 17:58:43 --> Total execution time: 0.1874
+DEBUG - 2019-02-13 17:59:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:02 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:59:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:59:02 --> Could not find the language line ""
+DEBUG - 2019-02-13 17:59:02 --> Total execution time: 0.1549
+DEBUG - 2019-02-13 17:59:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:59:03 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 17:59:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:03 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:59:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:59:03 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:59:03 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:59:03 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:59:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:03 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:59:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 17:59:03 --> Total execution time: 0.2096
+DEBUG - 2019-02-13 17:59:04 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:04 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:59:04 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 17:59:04 --> Could not find the language line ""
+ERROR - 2019-02-13 17:59:04 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 17:59:04 --> Total execution time: 0.2026
+DEBUG - 2019-02-13 17:59:04 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:04 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:04 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:04 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:59:04 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:59:05 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 17:59:05 --> Total execution time: 0.2362
+DEBUG - 2019-02-13 17:59:05 --> Total execution time: 0.3051
+DEBUG - 2019-02-13 17:59:05 --> Total execution time: 0.3214
+DEBUG - 2019-02-13 17:59:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:39 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 17:59:39 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 17:59:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 17:59:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 17:59:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 17:59:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:59:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 17:59:39 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:01:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:22 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:22 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:01:22 --> Could not find the language line ""
+DEBUG - 2019-02-13 18:01:22 --> Total execution time: 0.1697
+DEBUG - 2019-02-13 18:01:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:01:22 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:01:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:01:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:01:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:01:22 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:01:22 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:22 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:01:22 --> Total execution time: 0.1596
+DEBUG - 2019-02-13 18:01:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:25 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:01:25 --> Could not find the language line ""
+ERROR - 2019-02-13 18:01:25 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:01:25 --> Total execution time: 0.2076
+DEBUG - 2019-02-13 18:01:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:25 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:25 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:25 --> Total execution time: 0.1909
+DEBUG - 2019-02-13 18:01:25 --> Total execution time: 0.2843
+DEBUG - 2019-02-13 18:01:25 --> Total execution time: 0.3542
+DEBUG - 2019-02-13 18:01:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:37 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:01:37 --> Could not find the language line ""
+ERROR - 2019-02-13 18:01:37 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:01:37 --> Total execution time: 0.2059
+DEBUG - 2019-02-13 18:01:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:37 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:01:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:01:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:37 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:01:37 --> Total execution time: 0.1669
+DEBUG - 2019-02-13 18:01:37 --> Total execution time: 0.2013
+DEBUG - 2019-02-13 18:01:37 --> Total execution time: 0.2336
+DEBUG - 2019-02-13 18:02:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:02:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:02:38 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:02:38 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:02:38 --> Could not find the language line ""
+DEBUG - 2019-02-13 18:02:38 --> Total execution time: 0.1911
+DEBUG - 2019-02-13 18:02:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:02:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:02:38 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:02:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:02:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:02:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:02:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:02:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:02:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:02:38 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:02:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:02:38 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 18:02:38 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:02:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:02:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:02:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:02:39 --> Total execution time: 0.1977
+DEBUG - 2019-02-13 18:02:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:02:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:02:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:02:39 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:02:39 --> Could not find the language line ""
+ERROR - 2019-02-13 18:02:39 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:02:39 --> Total execution time: 0.2324
+DEBUG - 2019-02-13 18:02:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:02:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:02:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:02:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:02:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:02:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:02:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:02:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:02:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:02:40 --> Total execution time: 0.1756
+DEBUG - 2019-02-13 18:02:40 --> Total execution time: 0.2284
+DEBUG - 2019-02-13 18:02:40 --> Total execution time: 0.2690
+DEBUG - 2019-02-13 18:04:23 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:23 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:23 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:04:24 --> Could not find the language line ""
+DEBUG - 2019-02-13 18:04:24 --> Total execution time: 0.1616
+DEBUG - 2019-02-13 18:04:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:04:24 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:04:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:04:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:04:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:04:24 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:04:24 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:24 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:04:24 --> Total execution time: 0.1717
+DEBUG - 2019-02-13 18:04:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:26 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:04:26 --> Could not find the language line ""
+ERROR - 2019-02-13 18:04:26 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:04:26 --> Total execution time: 0.1806
+DEBUG - 2019-02-13 18:04:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:26 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:26 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:27 --> Total execution time: 0.1816
+DEBUG - 2019-02-13 18:04:27 --> Total execution time: 0.2139
+DEBUG - 2019-02-13 18:04:27 --> Total execution time: 0.2505
+DEBUG - 2019-02-13 18:04:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:40 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:04:40 --> Could not find the language line ""
+DEBUG - 2019-02-13 18:04:40 --> Total execution time: 0.1556
+DEBUG - 2019-02-13 18:04:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:04:40 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:04:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:04:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:04:40 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:04:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:40 --> UTF-8 Support Enabled
+ERROR - 2019-02-13 18:04:40 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:04:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:04:41 --> Total execution time: 0.1934
+DEBUG - 2019-02-13 18:04:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:04:41 --> Could not find the language line ""
+ERROR - 2019-02-13 18:04:41 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:04:41 --> Total execution time: 0.2044
+DEBUG - 2019-02-13 18:04:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:04:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:04:42 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:42 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:42 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:04:42 --> Total execution time: 0.1666
+DEBUG - 2019-02-13 18:04:42 --> Total execution time: 0.2087
+DEBUG - 2019-02-13 18:04:42 --> Total execution time: 0.2499
+DEBUG - 2019-02-13 18:05:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:08 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:05:08 --> Could not find the language line ""
+DEBUG - 2019-02-13 18:05:08 --> Total execution time: 0.1801
+DEBUG - 2019-02-13 18:05:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:05:09 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:05:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:05:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:05:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:05:09 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:05:09 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:09 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:05:09 --> Total execution time: 0.1767
+DEBUG - 2019-02-13 18:05:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:10 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:05:10 --> Could not find the language line ""
+ERROR - 2019-02-13 18:05:10 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:05:10 --> Total execution time: 0.2117
+DEBUG - 2019-02-13 18:05:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:10 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:10 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:10 --> Total execution time: 0.1751
+DEBUG - 2019-02-13 18:05:10 --> Total execution time: 0.2205
+DEBUG - 2019-02-13 18:05:10 --> Total execution time: 0.2604
+DEBUG - 2019-02-13 18:05:51 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:51 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:51 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:05:51 --> Could not find the language line ""
+DEBUG - 2019-02-13 18:05:51 --> Total execution time: 0.1561
+DEBUG - 2019-02-13 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:05:52 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:05:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:05:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:05:52 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:52 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:05:52 --> Total execution time: 0.1603
+DEBUG - 2019-02-13 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:53 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:05:53 --> Could not find the language line ""
+ERROR - 2019-02-13 18:05:53 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:05:53 --> Total execution time: 0.1907
+DEBUG - 2019-02-13 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:05:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:05:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:53 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:05:53 --> Total execution time: 0.1774
+DEBUG - 2019-02-13 18:05:53 --> Total execution time: 0.2208
+DEBUG - 2019-02-13 18:05:53 --> Total execution time: 0.2701
+DEBUG - 2019-02-13 18:06:31 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:06:31 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:06:31 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:06:31 --> Could not find the language line ""
+DEBUG - 2019-02-13 18:06:31 --> Total execution time: 0.1683
+DEBUG - 2019-02-13 18:06:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:06:32 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:06:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:06:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:06:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:06:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:06:32 --> 404 Page Not Found: Assets/css
+ERROR - 2019-02-13 18:06:32 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:06:32 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:06:32 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:06:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:06:32 --> Total execution time: 0.1674
+DEBUG - 2019-02-13 18:06:33 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:06:33 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:06:33 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:06:33 --> Could not find the language line ""
+ERROR - 2019-02-13 18:06:33 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:06:33 --> Total execution time: 0.1916
+DEBUG - 2019-02-13 18:06:33 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:33 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:33 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:06:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:06:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:06:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:06:33 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:06:33 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:06:33 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:06:33 --> Total execution time: 0.1640
+DEBUG - 2019-02-13 18:06:34 --> Total execution time: 0.1986
+DEBUG - 2019-02-13 18:06:34 --> Total execution time: 0.2433
+DEBUG - 2019-02-13 18:07:28 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:28 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:29 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:29 --> Total execution time: 0.1094
+DEBUG - 2019-02-13 18:07:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:29 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:07:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:07:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:07:29 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:07:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:38 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:38 --> No URI present. Default controller set.
+DEBUG - 2019-02-13 18:07:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:38 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:38 --> Total execution time: 0.1425
+DEBUG - 2019-02-13 18:07:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:07:38 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:07:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:07:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:07:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:07:38 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:07:38 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:38 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:38 --> Total execution time: 0.1397
+DEBUG - 2019-02-13 18:07:39 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:39 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:39 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:07:39 --> Could not find the language line ""
+DEBUG - 2019-02-13 18:07:39 --> Total execution time: 0.1604
+DEBUG - 2019-02-13 18:07:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:07:40 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:07:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:40 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 18:07:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:07:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:07:40 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:07:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:07:40 --> Total execution time: 0.2318
+DEBUG - 2019-02-13 18:07:40 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:07:41 --> Could not find the language line ""
+ERROR - 2019-02-13 18:07:41 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:07:41 --> Total execution time: 0.1808
+DEBUG - 2019-02-13 18:07:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:07:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:07:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:07:41 --> Total execution time: 0.1867
+DEBUG - 2019-02-13 18:07:41 --> Total execution time: 0.2253
+DEBUG - 2019-02-13 18:08:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:08:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:08:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:08:41 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:08:41 --> Could not find the language line ""
+DEBUG - 2019-02-13 18:08:41 --> Total execution time: 0.1732
+DEBUG - 2019-02-13 18:08:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:08:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:08:41 --> 404 Page Not Found: Assets/css
+DEBUG - 2019-02-13 18:08:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:08:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:08:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:08:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:08:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:08:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-02-13 18:08:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:08:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-02-13 18:08:41 --> 404 Page Not Found: Assets/js
+DEBUG - 2019-02-13 18:08:41 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:08:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:08:41 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:08:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:08:41 --> Total execution time: 0.1779
+DEBUG - 2019-02-13 18:08:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:08:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:08:42 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:08:42 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:08:42 --> Could not find the language line ""
+ERROR - 2019-02-13 18:08:42 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:08:42 --> Total execution time: 0.1945
+DEBUG - 2019-02-13 18:08:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:08:42 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:08:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:08:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:08:43 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:08:43 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:08:43 --> Total execution time: 0.1724
+DEBUG - 2019-02-13 18:08:43 --> Total execution time: 0.2185
+DEBUG - 2019-02-13 18:09:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:09:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:09:02 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:09:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2019-02-13 18:09:02 --> Could not find the language line ""
+ERROR - 2019-02-13 18:09:02 --> Could not find the language line "bow_return_date"
+DEBUG - 2019-02-13 18:09:02 --> Total execution time: 0.1933
+DEBUG - 2019-02-13 18:09:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:09:02 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:09:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:09:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:09:02 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:09:02 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:09:02 --> Total execution time: 0.1745
+DEBUG - 2019-02-13 18:09:02 --> Total execution time: 0.2011
+DEBUG - 2019-02-13 18:09:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:09:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:09:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+ERROR - 2019-02-13 18:09:08 --> Severity: Notice --> Undefined variable: return_status C:\xampp\htdocs\atchara\application\controllers\api\Borrows.php 159
+ERROR - 2019-02-13 18:09:08 --> Severity: Notice --> Undefined variable: return_status C:\xampp\htdocs\atchara\application\controllers\api\Borrows.php 172
+DEBUG - 2019-02-13 18:09:08 --> Total execution time: 0.2094
+DEBUG - 2019-02-13 18:09:08 --> UTF-8 Support Enabled
+DEBUG - 2019-02-13 18:09:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-02-13 18:09:08 --> Config file loaded: C:\xampp\htdocs\atchara\application\config/rest.php
+DEBUG - 2019-02-13 18:09:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2019-02-13 18:09:08 --> Total execution time: 0.1671

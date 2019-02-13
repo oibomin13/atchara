@@ -29,8 +29,17 @@ class Categories extends REST_Controller
     public function index_get()
     {        
         $id = $this->get('id');
-        $data = ($id === null) ? $this->Category_model->find_all() : $this->Category_model->find($id);
-
+        //echo $id;        
+        if ($id === null || $id==="" || $id===0) {
+            $data =$this->Category_model->find_all();
+        }
+        else{
+            $data =$this->Category_model->find($id);
+        }
+        $data =$this->Category_model->find_all();
+        //die(print_r($data));
+        //$data = ($id === null) ? $this->Category_model->find_all() : $this->Category_model->find($id);
+        // $data['idget'] = $id;
         $this->response($data, 200);
     }
 

@@ -107,14 +107,14 @@ $(document).ready(function() {
   });
 
   $("#ajaxLargeModal").on("shown.bs.modal", function(e) {
-    app.item.onbtn=e.relatedTarget.getAttribute('data-name');
+    // app.item.onbtn=e.relatedTarget.getAttribute('data-name');
     $('input[name=schedule_date]').daterangepicker(datepickerOption, 
     function(start, end, label) {
       var dt = moment(start).format('DD/MM/YYYY');
       app.item.schedule_date = dt;
       app.changeHide();
     });
-    console.log(e.relatedTarget.getAttribute('data-name'));
+    // console.log(e.relatedTarget.getAttribute('data-name'));
     $("#modalForm").validate({
       submitHandler: function(form) {
         app.item.onbtn=e.relatedTarget.getAttribute('data-name');
@@ -225,12 +225,13 @@ $(document).ready(function() {
 
     confirmBox("ลบข้อมูล", callback);
   });
+  
   // serach category
-  $('body').on('change', 'select[name=category_id]', function(e){
-    // searchData.category_id = $('select[name=category_id]').val();
-    // table.ajax.reload();
-    console.log("test");
-  });
+  // $('body').on('change', 'select[name=category_id]', function(e){
+  //   // searchData.category_id = $('select[name=category_id]').val();
+  //   // table.ajax.reload();
+  //   console.log("test");
+  // });
 
   // init select2
   $('.select2').select2();

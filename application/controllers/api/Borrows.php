@@ -36,7 +36,7 @@ class Borrows extends REST_Controller
 		$onbtn = $this->input->get('onbtn');
 		if ($id === null) {
 			$data = $this->Borrow_model->find_all_orderby();
-			$data['onbtn']="add";
+			
 		} else {
 			$data = $this->Borrow_model->find($id);
 			$data['borrow_date'] = !empty($data['borrow_date']) ? str_date($data['borrow_date']) : null;

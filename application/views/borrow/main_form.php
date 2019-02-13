@@ -68,8 +68,8 @@
 						<label for="product_id">
 							<?php line('prd_name'); ?>
 						</label>
-						<!-- <?php echo form_dropdown('category_id', $categories, '', array('class' => 'form-control select2','style'=>'width:200px')); ?> -->
-						<v-select :options="categorys" v-model="categoryId" v-on:input="changeRoute(categoryId)" placeholder="เลือกรายการ"></v-select>
+						<?php echo form_dropdown('category_id', $categories, '', array('id' => 'selectcat','class' => 'form-control select2','style'=>'width:200px')); ?> 
+						<!-- <v-select :options="categorys" v-model="categoryId" v-on:input="changeRoute(categoryId)" placeholder="เลือกรายการ"></v-select> -->
 					</div>
 				</div>
 				<div class="form-row" v-if="item.id==0">
@@ -312,6 +312,22 @@ var app = new Vue({
 		}
 	},
 	created: function () {
+		// /* get categories data */
+		// axios.get(gUrl + 'api/categories', {
+		// 	headers: {'api-key': gApiKey}
+		// }).then(
+		// 	response => {
+		// 		if (response.status === 200) {			
+		// 			console.log(response);
+		// 			var reCategory = response.data.map(obj => {
+		// 					var rObj = {};
+		// 					rObj = {value: obj.id, label: obj.name}
+		// 					return rObj;
+		// 				});						
+		// 			this.categorys = reCategory;
+		// 		}
+		// 	}
+		// );
 		/* get data */
 		var dtt = moment(Date.now()).format('DD/MM/YYYY');
 		this.item.borrow_date = dtt;
@@ -331,27 +347,12 @@ var app = new Vue({
 					} else{												
 						this.item.member=this.item.mname;
 						this.item.member_id=this.item.mid;
-						this.item.products = [];
+						this.item.products = [];						
 						//console.log(this.item.member);
 					}
 				}
 			}
-		);
-		/* get categories data */
-		axios.get(gUrl + 'api/categories/', {
-			headers: {'api-key': gApiKey}
-		}).then(
-				response => {
-					if (response.status === 200) {			
-					var reCategory = response.data.map(obj => {
-								var rObj = {};
-								rObj = {value: obj.id, label: obj.name}
-								return rObj;
-							});						
-						this.categorys = reCategory;
-					}
-				}
-			);
+		);		
 		// /* get member by user_id */
 		// axios.get(gUrl + 'api/members/'+this.item.id, {
 		// 		headers: {
@@ -434,4 +435,18 @@ var app = new Vue({
 		// });
 	}
 });
+$(document).ready(function() {
+	$('#selectcat').change(function() {
+		var reProducts=[];
+        	for (var i = 0; i < app._data.allproducts.length; i++) {
+        		if (app._data.allproducts[i].category_id == $(this).val()) {
+					//console.log(app._data.allproducts[i]);
+					reProducts.push(app._data.allproducts[i]);
+        		}        		
+			}
+			app._data.products=reProducts;
+	  	//console.log(app._data.allproducts);
+	});
+});
+	
 </script>

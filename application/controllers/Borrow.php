@@ -9,6 +9,7 @@ class Borrow extends CI_Controller
 		$this->load->model('Borrow_model');
 		$this->load->library('session');
 		$this->load->model('Member_model');
+		$this->load->model('Category_model');
 	}
 
 	public function index()
